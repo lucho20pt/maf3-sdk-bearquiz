@@ -1,0 +1,2096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tema>
+	<titulo>Gastronomy</titulo>
+	<perguntas how_many="111">
+		<pergunta id="1">
+			<textoPergunta>Os "Bolinhos de Jerimu" são de que região?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Entre Douro e Minho </textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Beira Baixa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Beira Alta</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="2">
+			<textoPergunta>A açorda de pão é típica de que zona?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ribatejo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Alentejo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="3">
+			<textoPergunta>À bebida alcoólica fermentada à base de mel e água
+				dá-se o nome de?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Melada</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Hidromel</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Fantamel</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Colamel</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="4">
+			<textoPergunta>A fruta anona é cultivada sobretudo em que região
+				portuguesa?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Ilha da Madeira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ilha dos Açores</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Douro Litoral</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Alentejo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="5">
+			<textoPergunta>A Sericaia é um doce conventual de que raízes?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Algarvias</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Minhotas</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Madeirenses</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Alentejanas</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="6">
+			<textoPergunta>À sopa juliana juntam-se folhas de?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Couve</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Alface</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Tomate</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Alho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="7">
+			<textoPergunta>Qual destas opções não é uma das 7 Maravilhas da Gastronomia
+				de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Sardinha assada</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Pastel de Nata</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Queijo de Nisa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Caldo verde</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="8">
+			<textoPergunta>Arroz de Lingueirão é um prato típico de que gastronomia?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Alentejana</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Algarvia</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Do Porto</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Da Figueira da Foz</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="9">
+			<textoPergunta>As famosas Pantufas são provenientes de que zona?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Vila Velha de Rodão</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Proença-a-Nova</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Idanha-a-Nova</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Castelo Branco</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="10">
+			<textoPergunta>As migas são típicas de que região Portuguesa?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Douro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Alentejo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="11">
+			<textoPergunta>As papas de sarrabulho são um prato típico de que
+				região?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Beira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Alentejo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="12">
+			<textoPergunta>As queijadas da Graciosa são típicas de que região?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Açores</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Madeira</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sintra</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="13">
+			<textoPergunta>As queijadas de Vila Franca Do Campo são provenientes
+				de que ilha do arquipélago dos Açores?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Ilha de São Miguel</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ilha Terceira</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ilha das Flores</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ilha do Pico</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="14">
+			<textoPergunta>A Barriga de Freira do Camparrão é de que zona?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Portalegre</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Vila Real</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Portimão</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Aveiro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="15">
+			<textoPergunta>A Barriga de Freira do Vaticano provém de que zona?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Monção</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Valença</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Paredes de Coura</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Vila Nova de Cerveira</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="16">
+			<textoPergunta>A Broa é um pão que tem como ingrediente?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Farinha de milho</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Passas</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Frutos secos</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Farinha de centeio</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="17">
+			<textoPergunta>O Caldo Verde é uma sopa tradicional de que zona de
+				Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Norte</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sul</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Este</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Oeste</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="18">
+			<textoPergunta>A carne de porco alentejana é originária de que região?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Alentejo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="19">
+			<textoPergunta>As castanhas assadas são tipicamente consumidas no?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Santo António</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>São João</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>São Martinho</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>São Pedro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="20">
+			<textoPergunta>Complete a seguinte frase associada a uma receita famosa: "... à bolhão pato".
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Almôndegas</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cherne</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Amêijoas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Carapaus</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="21">
+			<textoPergunta>De onde é a Marmelada mais famosa de Portugal?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Loures</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sintra</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mafra</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Odivelas</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="22">
+			<textoPergunta>De onde é originário o Arroz de Marisco?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Praia da Vieira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Praia de Sesimbra</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Praia de Peniche</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Barragem do Maranhão</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="23">
+			<textoPergunta>De onde é originário o Bacalhau à Zé do Pipo?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Aveiro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Matosinhos</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Gaia</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="24">
+			<textoPergunta>De onde são as alheiras mais famosas de Portugal?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sines</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Mirandela</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="25">
+			<textoPergunta>De onde são famosas as ameixas?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Elvas</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Braga</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Vila Real</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="26">
+			<textoPergunta>De onde são originários os Pastéis de Nata?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Belém</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Restelo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ajuda</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Boavista</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="27">
+			<textoPergunta>De que ilha dos Açores é o conhecido Queijo da ilha?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>São Jorge</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>São Miguel</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Santa Maria</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Faial</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="28">
+			<textoPergunta>De que órgão do animal é feito o Bucho?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Fígado</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Pulmão </textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Estômago</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Rim</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="29">
+			<textoPergunta>De que região é a Sopa Azeda?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Trás-os-Montes</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Açores</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="30">
+			<textoPergunta>De que região é o conhecido Bolo de Mel?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Madeira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ribatejo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Beira Alta</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="31">
+			<textoPergunta>De que região é o conhecido "Frango da Guia"?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Beira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Alentejo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="32">
+			<textoPergunta>De que região é o famoso queijo de Nisa?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Açores</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Beira Baixa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ribatejo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Alto Alentejo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="33">
+			<textoPergunta>De que região é o vinho verde?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Alentejo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Setúbal</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Douro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="34">
+			<textoPergunta>De que região é típica a açorda?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Alentejo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Douro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Beira Baixa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ribatejo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="35">
+			<textoPergunta>De que região é típico o bolo de mel?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Beira Interior</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Alentejo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Madeira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="36">
+			<textoPergunta>O Arroz de Lingueirão é originário de que região?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Peniche</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Costa Alentejana</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Costa de Caparica</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="37">
+			<textoPergunta>Em que região portuguesa a amêndoa é usada na maioria
+				dos doces regionais?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ribatejo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Beira Litoral</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="38">
+			<textoPergunta>Qual o nome da famosa fábrica de doces conhecida por
+				fazer os melhores Travesseiros de Sintra?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>O Tirol</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>A Piriquita</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>A Monserrate</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>A Sintrense</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="39">
+			<textoPergunta>Os Geladinhos do Convento da Conceição são de que região?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Tavira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Santa Comba Dão</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Beja</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Oliveira do Barro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="40">
+			<textoPergunta>As Lapas grelhadas são um petisco comum de?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Setúbal</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Funchal</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="41">
+			<textoPergunta>Na Páscoa portuguesa é comum comer-se?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Castanhas Assadas</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Peru Recheado</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Amêndoas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Cabrito Assado</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="42">
+			<textoPergunta>O arroz de lampreia é um prato típico de que região?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Beira Interior</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Alentejo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="43">
+			<textoPergunta>O bife de Lagarto é típico de que região?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Trás-os-Montes</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Beira Alta</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Açores</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Madeira</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="44">
+			<textoPergunta>O Bolo de Tacho é um doce regional de que zona?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Monchique </textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Caldas da Rainha</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sintra</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Braga</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="45">
+			<textoPergunta>O Bolo-Rei é normalmente consumido em que época?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Páscoa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Natal</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Carnaval</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Santos Populares</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="46">
+			<textoPergunta>O caldo de castanhas é típico de que zona?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Alentejo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Beira Alta</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="47">
+			<textoPergunta>O cozido à Portuguesa pode ser utilizado para
+				que outro tipo de prato?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Caldo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sopa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Creme</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Canja</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="48">
+			<textoPergunta>O doce Dom Rodrigo é originário de que região
+				portuguesa?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Estremadura</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Baixo Alentejo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Beira Alta</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="49">
+			<textoPergunta>O doce regional Barriga de Freira é de que região?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Beja</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Borba</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Évora</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Moura</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="50">
+			<textoPergunta>O doce regional Beijos de Freira é de que cidade?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Vila do Conde</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Setúbal</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Faro</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Beja</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="51">
+			<textoPergunta>O Morgado é um doce típico de que região?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Açores</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Alentejo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="52">
+			<textoPergunta>O Pão de Rala é de que zona?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Aveiro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Évora</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="53">
+			<textoPergunta>O que é um Esquecido?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Alguém que ficou sozinho</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Um bolo que ninguém quer</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Um prato de peixe</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Um bolo típico da Beira Baixa</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="54">
+			<textoPergunta>Qual dos seguintes frutos se come no São Martinho?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Nozes</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Castanhas</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Bolotas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Avelãs</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="55">
+			<textoPergunta>Qual dos seguintes ingredientes se pode acrescentar ao bater as claras para que
+				fiquem bem firmes?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Açúcar</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sal</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Óleo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Limão</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="56">
+			<textoPergunta>O queijo da Serra (da Estrela) é feito com que leite?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Leite de vaca</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Leite de cabra</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Leite de ovelha</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Leite de burra</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="57">
+			<textoPergunta>O Queijo de Serpa é produzido com leite de?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Cabra</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ovelha</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vaca</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Coelha</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="58">
+			<textoPergunta>Onde é cozinhado o pão de trigo típico da região da
+				Madeira?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Forno a Lenha</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Bimby</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Pedra de Basalto</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Grelhador a Carvão</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="59">
+			<textoPergunta>Em qual das seguintes cidades é típico comer Pastéis de Feijão?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Bragança</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Portimão</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Beja</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Torres Vedras</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="60">
+			<textoPergunta>Onde se costuma encontrar poncha, milho frito e
+				espetadas em pau de louro?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Lourinhã</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Gondomar</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mealhada</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Funchal</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="61">
+			<textoPergunta>Originalmente, o doce Sericaia é de que zona?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Évora</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cascais</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Elvas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="62">
+			<textoPergunta>Os biscoitos Areias do Sorraia são de que zona?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Coruche</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Palmela</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Penamacor</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Abrantes</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="63">
+			<textoPergunta>Os Camafeus são provenientes de que ilha do
+				arquipélago dos Açores?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Ilha do Corvo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ilha das Flores</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ilha Terceira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ilha do Pico</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="64">
+			<textoPergunta>Os Pastéis de Nata podem ser degustados em que doçaria
+				tradicional?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Pastéis de Aljezur</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Pastéis de Belém</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Pastéis de Mafra</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Pastéis de Sintra</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="65">
+			<textoPergunta>Os pastéis de Santa Clara são os doces conventuais de?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Coimbra</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Mafra</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Setúbal</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="66">
+			<textoPergunta>Os pastéis do Lorvão são de que cidade?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Setúbal</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Coimbra</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="67">
+			<textoPergunta>Os rebuçados de ovo são tipicamente de que cidade
+				alentejana?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Estremoz</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Portalegre</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vila Viçosa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Évora</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="68">
+			<textoPergunta>Os rojões são típicos de que zona?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Douro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>São João</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="69">
+			<textoPergunta>O Pampilho é um bolo típico de que zona?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Almeirim</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cascais</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Setúbal</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Santarém</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="70">
+			<textoPergunta>Pingos de tocha é um doce muito tradicional de que
+				zona?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Figueiró dos Vinhos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Portelão</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Caparito</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Sintra</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="71">
+			<textoPergunta>Por que nome é também conhecido o maranho?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Cabreiro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Bucho</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Borlhões </textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Morcela</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="72">
+			<textoPergunta>Qual o nome do famoso pudim da região de Braga que tem nome de Abade?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Abade de Priscos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Abade Faria</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Abade Bouly</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Abade dos Arcos</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="73">
+			<textoPergunta>Quais os enchidos inventados pelos judeus portugueses
+				como artimanha para escaparem às malhas da Inquisição?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Farinheira e Alheira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Morcela e Linguiça </textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Chouriço de sangue e Cacholeira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Morcela de arroz e Chouriço mouro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="74">
+			<textoPergunta>Quais os enchidos inventados pelos judeus portugueses
+				para escaparem às malhas da Inquisição? </textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Farinheira e Alheira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Morcela e Linguiça </textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Chouriço de sangue e Cacholeira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Morcela de arroz e Chouriço mouro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="75">
+			<textoPergunta>Quais os principais ingredientes dos Bolos Fintos do
+				Alentejo? </textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Farinha, banha, açúcar, erva doce e água
+					</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Farinha, ovos, açúcar e água</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Farinha, ovos, açúcar, canela e água</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Açúcar, ovos, gengibre e sal</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="76">
+			<textoPergunta>Qual a carne usada na Chanfana?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Cabra</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Coelho</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Galinha</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Porco</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="77">
+			<textoPergunta>Qual a cidade que se associa à Sopa da Pedra?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Ribatejo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Alpiarça</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Almeirim</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Alcoutim</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="78">
+			<textoPergunta>Qual destas características define melhor o Vinho do
+				Porto?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Vinho natural e fortificado</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Vinho natural e frutificado</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vinho natural e frutado</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Vinho natural e docificado</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="79">
+			<textoPergunta>Qual destes doces é típico de Aveiro?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Ovos moles</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Rodrigo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sericaia</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Travesseiros</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="80">
+			<textoPergunta>Qual destes doces é uma das 7 maravilhas da
+				gastronomia?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Pastéis de Tentúgal</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Pastel de Belém</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Travesseiros de Sintra</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Pudim Abade de Priscos</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="81">
+			<textoPergunta>Qual destes ingredientes não faz parte do Cozido à
+				Portuguesa?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Chouriço</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Entrecosto</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Farinheira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Morcela</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="82">
+			<textoPergunta>Qual destes não é uma das 7 Maravilhas da Gastronomia
+				de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Sardinha assada</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Pastel de Nata</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Queijo de Nisa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Caldo verde</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="83">
+			<textoPergunta>Qual destes peixes é um dos pratos grelhados favoritos
+				dos portugueses no verão?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Carapaus</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sardinhas</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Cherne</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Bacalhau</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="84">
+			<textoPergunta>Qual destes pratos é típico do Porto?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Fondue de queijo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Francesinha</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Cataplana de ostras</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Porco preto com açorda</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="85">
+			<textoPergunta>Qual destes pratos é típico do Porto? </textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Francesinha</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Secretos</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Bitoque</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Fondue de Queijo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="86">
+			<textoPergunta>Qual destes pratos não é português?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Paelha</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Bacalhau com natas</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Bitoque</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Arroz de cabidela</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="87">
+			<textoPergunta>Qual destes queijos é português?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Azul</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Nisa </textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Gouda</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ricota</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="88">
+			<textoPergunta>Qual dos seguintes doces é típico da região do
+				Algarve?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Ovos Moles</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Morgados</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Barrigas de Freira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Bolo do Caco</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="89">
+			<textoPergunta>Qual dos seguintes ingredientes não é utilizado na
+				confecção do Pudim Abade de Priscos?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Açúcar</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Margarina</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Toucinho</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Vinho do Porto</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="90">
+			<textoPergunta>Qual dos seguintes ingredientes não entra na
+				constituição de Licor Beirão?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Eucalipto</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Medronho</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Alecrim</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Alfazema</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="91">
+			<textoPergunta>Qual dos seguintes pratos não faz parte das 7
+				maravilhas da gastronomia portuguesa?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Sardinha assada</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Leitão da Bairrada</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Lampreia</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Alheira de Mirandela</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="92">
+			<textoPergunta>Qual dos seguintes pratos não tem por base o pão?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Açorda de Marisco</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ensopado de Marisco</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Francesinha</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Cataplana de Marisco</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="93">
+			<textoPergunta>Qual dos Vinhos do Porto é um vinho muito frutado de
+				cor escura?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Rubi</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Branco</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Tawny</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Vintage</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="94">
+			<textoPergunta>Qual é a bebida preferida dos portugueses à refeição
+				quando se juntam em família?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Vinho Branco</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Vinho Verde</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Água</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Vinho Tinto</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="95">
+			<textoPergunta>Qual é a sopa portuguesa que é mais famosa?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Sopa de Peixe</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Caldo Verde</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sopa de Tomate</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Sopa de Verduras</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="96">
+			<textoPergunta>Qual é o ingrediente mais comum na doçaria tradicional
+				portuguesa?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Maçã</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Pinhões</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Passas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ovos</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="97">
+			<textoPergunta>Qual o doce que não é típico da Beira Baixa?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Bolo de Azeite</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ovos Moles</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Tigelada</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Bolo de Canela</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="98">
+			<textoPergunta>Qual o nome do famoso pudim da região de Braga?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Abade de Priscos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Abade Faria</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Abade Bouly</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Abade dos Arcos</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="99">
+			<textoPergunta>Qual o nome original dos Fofos de Belas?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Pão-de-ló de Belas</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Pães de Belas</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Bolas de Berlim</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Fartos de Creme</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="100">
+			<textoPergunta>Qual o principal ingrediente dos Rissóis de Camarão?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Camarão</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Farinha</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ovos</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Açúcar</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="101">
+			<textoPergunta>Que couve é utilizada na confecção do Caldo Verde?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Couve-flor</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Couve lombarda</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Couve de Bruxelas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Couve Galega</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="102">
+			<textoPergunta>Que doces são típicos de Aveiro?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Queijadas de Requeijão</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Queijinhos de Amêndoa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Bolo de Mel</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ovos Moles</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="103">
+			<textoPergunta>Que erva aromática é usada na confecção das Amêijoas à
+				Bulhão Pato?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Salsa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Coentros</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Louro</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Cidreira</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="104">
+			<textoPergunta>Que feijão é utilizado na Feijoada à Transmontana?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Feijão Vermelho</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Feijão Preto</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Feijão Frade</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Feijão Branco</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="105">
+			<textoPergunta>Que receita foi introduzida por missionários
+				portugueses no Japão?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Sushi</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Vindalho</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sashimi</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Tempura</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="106">
+			<textoPergunta>Que sopa portuguesa terá sido criada por um frade
+				pobre em peregrinação na zona de Almeirim?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Caldo verde</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sopa de Pedra</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Canja</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Gaspacho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="107">
+			<textoPergunta>Quem criou o prato de Bacalhau à Gomes de Sá?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>José Manuel Gomes de Sá</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>José Luís Gomes de Sá</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Maria Arminda Gomes de Sá</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Luísa Varela Gomes</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="108">
+			<textoPergunta>Se ao prato "Carne de Porco à Portuguesa" juntar
+				amêijoas, passa a ter?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Douradinhos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Carne de Porco</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Amêijoas do Porco</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Carne de Porco à Alentejana</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="109">
+			<textoPergunta>"Semilha" é outro nome dado a?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Às favas</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ao milho</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>À batata</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ao feijão frade com vinagre</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="110">
+			<textoPergunta>Tradicionalmente de que animal é feito o "maranho"?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Cabra</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ovelha</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vaca</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Porco</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="111">
+			<textoPergunta>Qual destes peixes é um dos pratos grelhados favoritos
+				dos portugueses no verão?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Carapaus</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sardinhas</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Cherne</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Bacalhau</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+	</perguntas>
+</tema>

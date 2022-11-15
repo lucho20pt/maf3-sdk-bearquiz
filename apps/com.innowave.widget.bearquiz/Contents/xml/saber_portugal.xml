@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<app>
+	
+	<title>BeerQuiz - [En]</title>
+	
+	<views>	
+	
+		<intro>
+			<menu>
+				<menuBtn>Start Game</menuBtn>
+				<menuBtn>Info</menuBtn>
+				<menuBtn>Exit</menuBtn>
+			</menu>
+		</intro>
+		
+		<help>
+			<helpTitle>Info</helpTitle>
+			
+			<helpLine>The game consists of 10 rounds of questions whose topics will be: (History, Geography, Gastronomy, Sports and Arts).</helpLine>
+			<helpLine>The 5 topics are always presented in the same order and will be repeated once.</helpLine>			
+			<helpLine>The maximum score for each round is 100 pts. The score will decrease over time depending on how fast the player choose the answer.</helpLine>
+			<helpLine>In each question, the player will have 30 seconds to answer correctly and earn points. At the end of 10 rounds of play the final game score results will be presented.</helpLine>
+			<helpLine>The player can use the arrow keys (up and down) and the OK button to confirm.</helpLine>
+			
+			<goBack>Back to Menu</goBack>
+		</help>
+		
+		<exit>
+			<exitText>If you leave the Game you will loose your current progress.</exitText>
+			<exitYes>Leave the Game</exitYes>
+			<exitNo>Back to Game</exitNo>
+		</exit>
+		
+		<theme>
+			<themeTitle>Next Theme</themeTitle>
+			<themeFoward>Next</themeFoward>
+			<themeBackMenu>Back to Menu</themeBackMenu>
+		</theme>
+		
+		<result>
+			<resultTitle>The Winner</resultTitle>
+			<resultBtn>Main Menu</resultBtn>
+		</result>
+				
+	</views>
+	
+</app>

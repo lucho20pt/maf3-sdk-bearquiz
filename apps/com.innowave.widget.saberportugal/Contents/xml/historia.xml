@@ -1,0 +1,1899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tema>
+	<titulo>História</titulo>
+	<perguntas how_many="100">
+		<pergunta id="1">
+			<textoPergunta>"A Portuguesa", hino de Portugal, teve como escritor
+				qual dos seguintes autores?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Pedro de Albuquerque</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Henrique Lopes de Mendonça</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ary dos Santos</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>José Régio</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="2">
+			<textoPergunta>Com quem foi casado D. Dinis?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>D. Urraca</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Mafalda</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D. Leonor Telles</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Rainha Santa Isabel</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="3">
+			<textoPergunta>Como ficou conhecido o golpe de Estado de 25 de Abril
+				de 1974?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Revolução dos cravos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Revolução das rosas</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Golpe das Camélias</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Golpe de Abril</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="4">
+			<textoPergunta>Como se denominava a Quarta Dinastia?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Dinastia Afonsina ou de Borgonha</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Dinastia Castelhana ou Filipina</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Dinastia Joanina ou de Avis</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Dinastia Brigantina ou de Bragança</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="5">
+			<textoPergunta>Como se chamava o navegador português que dobrou, em
+				1488, o Cabo das Tormentas?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Gil Eanes</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Pedro Álvares Cabral</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Bartolomeu Dias</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Fernão de Magalhães</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="6">
+			<textoPergunta>Como se chamou à Prole de D. Filipa de Lencastre,
+				inglesa de nascimento e rainha de Portugal por casamento?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Os Meninos de Palhavã</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Os Fidalgos Ingleses</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>A Ínclita Geração</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Geração à Rasca</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="7">
+			<textoPergunta>Contra que exército foi travada a batalha de Aljubarrota
+				em 1385?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Romano</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Castelhano</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Napoleónico</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Nazi</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="8">
+			<textoPergunta>D. Dinis ficou conhecido pelo Cognome de?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>O Lavrador</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>O Povoador</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>O Bolonhês </textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>O Gordo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="9">
+			<textoPergunta>D. Maria II ficou conhecida pelo Cognome?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>A Educadora</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>A Povoadora</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>A Formosa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>A de Boa Memória</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="10">
+			<textoPergunta>Em que data foi assinado o Tratado de Zamora?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>1 de Dezembro de 1140</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>10 de Junho de 1153</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>5 de Outubro de 1143</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>10 de Junho de 1500</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="11">
+			<textoPergunta>De que nome intitulou Bartolomeu Dias o Cabo da Boa
+				Esperança?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Cabo do Náufragos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cabo Bojador</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Cabo das Tormentas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Cabo das Buzinas</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="12">
+			<textoPergunta>De que rei português era filha Catarina de Bragança,
+				que foi rainha de Inglaterra?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>D. João IV</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Pedro I</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D. João VI</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. Dinis</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="13">
+			<textoPergunta>Desde 1386 que Portugal mantém formada a aliança mais
+				antiga do mundo. Com qual dos seguintes países?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>França</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Espanha</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Inglaterra</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Itália</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="14">
+			<textoPergunta>Durante que reinado foi construído o Aqueduto das
+				Águas Livres?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>D. João V</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Afonso IV</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D. Afonso V</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. José I</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="15">
+			<textoPergunta>Em 1588, a "Armada Invencível" partiu de Lisboa com o
+				objectivo de derrubar que monarca inglês?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Henry VIII</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Elizabeth I</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>James I</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Mary I</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="16">
+			<textoPergunta>Em que ano Bartolomeu Dias dobrou o Cabo da Boa
+				Esperança?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>1480</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1488</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1498</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1508</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="17">
+			<textoPergunta>Em que ano ocorreu a Batalha de São Mamede?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>1126</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1127</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1128</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1129</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="18">
+			<textoPergunta>Em que ano foi abolida a pena de morte em Portugal?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>1867</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1910</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1975</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2001</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="19">
+			<textoPergunta>Em que ano foi conquistada Ceuta?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>1415</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1414</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1416</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1410</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="20">
+			<textoPergunta>Em que ano foi descoberta a Índia?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>1495</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1496</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1497</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1498</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="21">
+			<textoPergunta>Em que ano foi descoberto o Brasil?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>1697</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1698</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1699</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1700</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="22">
+			<textoPergunta>Em que ano foi fundada a República Portuguesa?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>1901</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1910</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1015</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1908</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="23">
+			<textoPergunta>Em que ano foram publicados "Os Lusíadas"?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>1570</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1571</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1572</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1573</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="24">
+			<textoPergunta>Em que ano ocorreram as Invasões Francesas?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>1806</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1807</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1808</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1809</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="25">
+			<textoPergunta>Em que ano se iniciaram as Festas Feiras Novas, na
+				vila de Ponte de Lima?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>1816</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1826</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1836</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1756</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="26">
+			<textoPergunta>Em que ano terá Gonçalo Velho descoberto os Açores?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>1254</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1333</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1431</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1560</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="27">
+			<textoPergunta>Em que ano terminou a Guerra da Restauração, da qual resultou a
+				assinatura de um tratado com a Espanha?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>1670</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1680</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1668</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1666</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="28">
+			<textoPergunta>Em que ano teve lugar a célebre Batalha de Aljubarrota,
+				onde os Portugueses venceram as tropas Castelhanas?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>1383</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1567</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1885</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1385</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="29">
+			<textoPergunta>Em que cidade faleceu D. Afonso Henriques, primeiro
+				Rei de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Viseu</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Coimbra</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Guimarães</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Aveiro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="30">
+			<textoPergunta>Em que data foi assinado o Tratado de Zamora?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>1 de Dezembro de 1140</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>10 de Junho de 1153</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>5 de Outubro de 1143</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>10 de Junho de 1500</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="31">
+			<textoPergunta>Em que data foi instaurada a República em Portugal?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>10 de Outubro de 1910</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>5 de Outubro de 1910</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>5 de Outubro de 1901</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1 de Dezembro de 1910</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="32">
+			<textoPergunta>Em que mês foi oficializada a descoberta do Brasil no
+				ano 1500?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Fevereiro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Abril</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Julho</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Setembro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="33">
+			<textoPergunta>Em que país foi fundado o Partido Socialista (PS)
+				Português?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Portugal</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Alemanha</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Espanha</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>França</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="34">
+			<textoPergunta>Em que reinado ocorreu a execução dos Távoras?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>D. José I</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. João V</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D. Sebastião</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. Carlos</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="35">
+			<textoPergunta>José Saramago foi laureado com o Nobel da Literatura
+				em que ano?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>1996</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1997</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1998</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1999</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="36">
+			<textoPergunta>Luís de Camões nasceu em 1524 e no decurso da sua vida
+				aventureira e agitada perdeu um olho. Onde?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Em Macau</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Em Ceuta</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Em Lisboa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Em Goa</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="37">
+			<textoPergunta>Nuno Álvares Pereira também é conhecido como?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>O Santo Condestável</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>O Santo da Mouraria</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Nuno de Santa Maria</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>O Santo dos Martíres</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="38">
+			<textoPergunta>O que aconteceu com o último rei de Portugal,
+				D.Carlos I?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Refugiou-se no estrangeiro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Foi assasinado</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Morreu de angina</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Desapareceu numa batalha</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="39">
+			<textoPergunta>O que significa o feriado de dia 1 de Dezembro
+				em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Dia de Todos-Os-Santos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Dia da Mentira</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Dia da Restauração da Independência em Portugal
+					</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Implantação da República Portuguesa</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="40">
+			<textoPergunta>Onde foi fundado o Museu da Língua Portuguesa?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Macau</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>São Paulo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Luanda</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="41">
+			<textoPergunta>Onde nasceu o visconde de cortegaça, magistrado,
+				escritor e conselheiro António de Magalhães Barros de Araújo
+				Queiroz?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Ponte da Barca</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ponte de Lima</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Braga</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Viana do Castelo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="42">
+			<textoPergunta>Qual a cidade onde foi realizado o 1º Festival Aéreo
+				Português em 1917?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Amadora</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Alcochete</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Cascais</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="43">
+			<textoPergunta>Qual a nacionalidade de D. Filipa de Lencastre que
+				casou com D. João I tornando-se a primeira rainha da dinastia de
+				Avis?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Portuguesa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Espanhola</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Inglesa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Francesa</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="44">
+			<textoPergunta>Qual a nacionalidade do arquiteto da Gare do Oriente,
+				Santiago Calatrava?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Espanhol</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Mexicano</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Francês</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Polaco</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="45">
+			<textoPergunta>Qual a vila mais antiga de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Ponte da Barca</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ponte de Lima</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Barcelos</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Viana do Castelo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="46">
+			<textoPergunta>Qual destes cognomes não é de D.Afonso I ?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>O Conquistador</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>O Fundador</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>O Grande</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>O Bravo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="47">
+			<textoPergunta>Qual destes não foi Primeiro-Ministro de Portugal?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Adelino da Palma Carlos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Vasco Gonçalves</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vasco Almeida e Costa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Almeida Santos</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="48">
+			<textoPergunta>Qual destes nomes não pertence a um Navegador
+				Português? </textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Diogo Cão</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Miguel Albuquerque</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Diogo Sequeira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Cristóvão de Mendonça</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="49">
+			<textoPergunta>Qual destes nomes não pertence a um Rei de Portugal?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>D.Pedro V</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D.Afonso VI</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D.João V</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. João VI</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="50">
+			<textoPergunta>Qual foi o evento que deu origem às descobertas
+				Portuguesas em 1415?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Descoberta da Madeira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Conquista de Ceuta</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Descoberta das Canárias</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Conquista da Guiné</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="51">
+			<textoPergunta>Qual foi o Primeiro-Ministro Português da III
+				República que mais tempo esteve em funções até 2010?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Cavaco Silva</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Mário Soares</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>José Socrates</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>António Guterres</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="52">
+			<textoPergunta>Qual foi o Rei mais ecológico de Portugal que alargou
+				o pinhal de Leiria?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>D.Dinis, o Lavrador</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D.João IV, o Restaurador</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D.Sancho I, o Povoador</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D.Manuel II, o Patriota</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="53">
+			<textoPergunta>Qual foi o segundo Rei de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>D.Afonso II</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D.Sancho II</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D.Sancho I</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D.Dinis I</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="54">
+			<textoPergunta>Qual o cognome de D. Afonso II?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>O Conquistador</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>O Capelo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>O Gordo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>O Bolonhês</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="55">
+			<textoPergunta>Qual o navio inglês que, grande parte da sua vida
+				ativa, navegou com bandeira portuguesa?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Cutty Sark</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>RMS Lusitania</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Star of India</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Spurn Lightship</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="56">
+			<textoPergunta>Qual o nome de batismo de Rainha Santa Isabel?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Joana de Bragança</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Isabel de Castela</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Isabel de Aragão</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Isabel de Bragança</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="57">
+			<textoPergunta>Qual o nome do avião de Sacadura Cabral e Gago
+				Coutinho na primeira travessia aérea do Atlântico Sul?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>República</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Independência</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Lusitânia</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Recife</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="58">
+			<textoPergunta>Qual o nome do Primeiro-Ministro Português no ano de
+				2009?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Aristóteles</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Pedro Passos Coelho</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>José Sócrates</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>António Guterres</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="59">
+			<textoPergunta>Qual foi o outro castelo para além do de Guimarães a ser
+				eleito em 2007 como uma das 7 maravilhas de Portugal?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Marvão</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Almourol</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Óbidos</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Leiria</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="60">
+			<textoPergunta>Quem foi o primeiro Rei de Portugal após a restauração da
+				Independência?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>D. Afonso Henriques</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Manuel I</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D. Pedro II</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. João IV</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="61">
+			<textoPergunta>Qual foi o último Rei de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>D. Cristiano II</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Carlos I</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D. Manuel I</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. Manuel II</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="62">
+			<textoPergunta>Quantas Dinastias existiram em Portugal?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Duas</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Quatro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Cinco</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Uma</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="63">
+			<textoPergunta>Quantas fases das descobertas portuguesas existiram?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Uma</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Duas</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Três</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Quatro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="64">
+			<textoPergunta>Quantas mortes ocorreram, em Lisboa, devido à
+				Revolução do 25 de Abril?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Uma</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Duas</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Quatro</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Sete</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="65">
+			<textoPergunta>Quanto tempo durou a Dinastia Filipina?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>40 Anos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>50 Anos </textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>60 Anos </textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>70 Anos</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="66">
+			<textoPergunta>Que 'Cabo' foi dobrado por Bartolomeu Dias em 1488?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Cabo Bojador</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cabo da Boa Esperança</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Cabo do Padrão</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Cabo Lobo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="67">
+			<textoPergunta>Que cantor português obteve a melhor classificação no
+				festival eurovisão da canção até 2010?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Fernando Tordo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>José Cid</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Carlos Mendes</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Lúcia Moniz</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="68">
+			<textoPergunta>Que célebre escritor português está na origem da
+				expressão "pior a emenda que o soneto"?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Jel</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Fernando Pessoa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Luís de Camões</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Bocage</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="69">
+			<textoPergunta>Que Dinastia ficou conhecida como Dinastia de Avis?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>I Dinastia</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>II Dinastia</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>III Dinastia</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>IV Dinastia</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="70">
+			<textoPergunta>Qual era a lei que obrigava os proprietários das terras a cultivá-las,
+				para não lhe perder o direito, no reinado de D. Fernando?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Lei das Naus</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Lei das Terras</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Lei das Sesmarias</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Lei do Cultivo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="71">
+			<textoPergunta>Que navegador português era sogro de Cristóvão
+				Colombo?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Gonçalves Zarco</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Bartolomeu Perestrelo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vasco da Gama</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Fernão de Magalhães</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="72">
+			<textoPergunta>Que Rainha fundou a cidade de Caldas da Rainha?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>D. Josefina</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Leonor</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D. Isabel</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. Urraca</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="73">
+			<textoPergunta>Que Rainha Portuguesa agrediu com flores o assassino
+				do filho mais velho e do marido?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Rainha D. Amélia</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Filipa de Lencastre</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Rainha Santa Isabel</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. Maria</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="74">
+			<textoPergunta>Que Rei de Portugal foi "O Povoador"?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>D. Manuel I</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Sancho II</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D. Afonso V</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. Sancho I</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="75">
+			<textoPergunta>Que Rei morreu no Palácio de Queluz, no mesmo quarto
+				onde tinha nascido há 36 anos atrás?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>D. João V</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Pedro IV</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D. Carlos</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. José</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="76">
+			<textoPergunta>Que Rei morreu no Palácio de Queluz, no mesmo quarto
+				onde tinha nascido há 36 anos atrás?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>D. João V</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Pedro IV</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D. Carlos</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. José</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="77">
+			<textoPergunta>Que Rei português venceu a batalha de Aljubarrota em
+				1385?</textoPergunta>
+			<respostas>
+				<correcta id="1" /> 
+				<resposta id="1">
+					<textoResposta>D. João I</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Afonso Henriques</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D. Afonso IV</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. João III</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="78">
+			<textoPergunta>Que tática militar foi idealizada por Portugal para
+				derrotar Castela na batalha de Aljubarrota?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Quadrado</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Círculo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Fosso</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>4x3x3</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="79">
+			<textoPergunta>Quem assinou por Portugal o Tratado de Tordesilhas?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>D.Afonso I</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D.Afonso II</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D.João I</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D.João II</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="80">
+			<textoPergunta>Quem assinou por Portugal o Tratado de Zamora?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>D.Afonso I</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D.Afonso II</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D.Sancho I</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D.Sancho II</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="81">
+			<textoPergunta>Quem chefiou o I Governo Constitucional Português?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>António de Spínola</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Adelino da Palma Carlos</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mário Soares</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ramalho Eanes</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="82">
+			<textoPergunta>Quem descobriu o Brasil?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Pedro Álvares Cabral</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Infante D.Henrique</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Cristóvão Colombo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Vasco da Gama</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="83">
+			<textoPergunta>Quem dirigiu a instituição do Estado Novo em Portugal?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Marcelo Caetano</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Francisco Sá Carneiro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>António de Spínola</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>António de Oliveira Salazar</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="84">
+			<textoPergunta>Quem é padroeiro/a de Lisboa?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Santo António</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>São João</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Nossa Senhora Mãe de Deus</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>São Vicente</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="85">
+			<textoPergunta>Quem era a "Rainha Santa"?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>D. Teresa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Urraca</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D. Isabel de Aragão</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. Maria</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="86">
+			<textoPergunta>Quem escreveu "Os Lusíadas"?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>José Saramago</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Luís de Camões</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Fernando Pessoa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Camilo Castelo Branco</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="87">
+			<textoPergunta>Quem foi a Primeira Rainha de Portugal?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>D. Mafalda</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Teresa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D. Urraca</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. Leonor</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="88">
+			<textoPergunta>Quem foi o fundador do Reino de Portugal?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>D. Duarte</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Teresa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D. António</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. Afonso Henriques</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="89">
+			<textoPergunta>Quem foi o primeiro navegador a passar o cabo Bojador?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Vasco da Gama</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Gonçalo Velho Cabral</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Gil Eanes</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Bartolomeu Dias</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="90">
+			<textoPergunta>Quem foi o primeiro Presidente da República nomeado
+				após o 25 de Abril de 1974?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>António de Spínola</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Adelino da Palma Carlos</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mário Soares</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ramalho Eanes</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="91">
+			<textoPergunta>Quem foi o primeiro Presidente da República
+				Portuguesa?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Teófilo Braga</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Manuel de Arriaga</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Bernardino Machado</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ramalho Eanes</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="92">
+			<textoPergunta>Quem foi o Primeiro-Ministro após o 25 de Abril de
+				1974?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>António de Spínola</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Adelino da Palma Carlos</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mário Soares</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ramalho Eanes</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="93">
+			<textoPergunta>Quem foram as personagens da lenda "O milagre das
+				Rosas"?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>D. Inês de Castro e o Rei D. Pedro I</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Aldora e o Rei Ramiro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Salazar e Maria Emília Vieira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Rainha Santa Isabel e D. Dinis</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="94">
+			<textoPergunta>Quem fundou o famoso Hospital Termal das Caldas da
+				Rainha? </textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Rainha D. Maria II</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Rainha Santa Isabel</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Rainha D. Leonor</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. Inês de Castro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="95">
+			<textoPergunta>Quem gritou a Independência do Brasil nas margens do
+				rio Ipiranga?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>D. Pedro II</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Pedro IV</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D.Pedro III</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. Pedro V</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="96">
+			<textoPergunta>Quem realizou o primeiro voo entre a Europa e América
+				do Sul?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Bartolomeu de Gusmão</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sacadura Cabral e Gago Coutinho</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Irmãos Wright</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Alberto Santos Dumont</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="97">
+			<textoPergunta>Quem reinava em Portugal quando ocorreu a revolução de
+				1 de Dezembro de 1640?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>D. João IV</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Filipe IV (III de Portugal)</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Cardeal D. Henrique</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. Pedro II</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="98">
+			<textoPergunta>Quem subiu ao trono após a crise Dinástica provocada
+				pela morte de D. Fernando a 22 de Outubro de 1383?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>D. Duarte</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Manuel I</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D. Sebastião</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. João I</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="99">
+			<textoPergunta>Quem venceu as primeiras eleições para Presidente da
+				República por sufrágio directo?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>António de Spínola</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Adelino da Palma Carlos</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mário Soares</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ramalho Eanes</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="100">
+			<textoPergunta>Segundo a lenda, quem irá reaparecer numa manhã de
+				nevoeiro?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Luís de Camões</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Afonso Henriques</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Napoleão montado num cavalo branco</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. Sebastião</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+	</perguntas>
+</tema>

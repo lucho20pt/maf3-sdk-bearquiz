@@ -1,0 +1,2328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tema>
+	<titulo>Desporto e Lazer</titulo>
+	<perguntas how_many="122">
+		<pergunta id="1">
+			<textoPergunta>Ayrton Senna teve a sua primeira vitória no GP de
+				Portugal em que ano?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>1982</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1985</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1987</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1990</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="2">
+			<textoPergunta>A Académica de Coimbra mudou de nome para Académico em
+				que ano?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Nunca</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1969</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1974</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1950</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="3">
+			<textoPergunta>Para além do SL Benfica em qual dos seguintes clubes jogou
+				Eusébio?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Sporting CP</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Beira-Mar</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Real Madrid</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Barcelona</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="4">
+			<textoPergunta>Até 2010, quantas vezes Portugal chegou aos 4 primeiros
+				lugares do campeonato do mundo de futebol?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Zero</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Um</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Dois</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Três</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="5">
+			<textoPergunta>Até 2011, quantas participações teve Portugal no
+				Campeonato Europeu de basquetebol?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Zero</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Dez</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Três</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Duas</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="6">
+			<textoPergunta>Até 2011, qual o tenista português com a melhor marca
+				no ranking ATP?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Rui Machado</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Leonardo Tavares</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>João Sousa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Frederico Gil</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="7">
+			<textoPergunta>Até 2011, quantos portugueses foram galardoados com o
+				prémio Jogador do Ano FIFA?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Zero</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Um</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Dois</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Três</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="8">
+			<textoPergunta>Até ao ano de 2011, em que lugar está Portugal em
+				termos de títulos de Hóquei em patins?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>2º Lugar</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1º Lugar</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>3º Lugar</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>4º Lugar</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="9">
+			<textoPergunta>Até ao ano de 2011, qual o clube de futebol Português
+				com mais finais da liga dos campeões?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>SC Braga</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sporting CP</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>FC Porto</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>SL Benfica</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="10">
+			<textoPergunta>Até ao ano de 2011, qual o clube Português com mais
+				medalhas Olímpicas conquistadas?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>SL Benfica</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sporting CP</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>FC Porto</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Alverca</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="11">
+			<textoPergunta>Até ao ano de 2011, qual o melhor marcador de sempre do
+				campeonato Português?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Eusébio</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Hector Yazalde</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mário Jardel</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Hélder Postiga</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="12">
+			<textoPergunta>Até ao ano de 2011, qual o melhor resultado da seleção
+				Portuguesa de futebol em campeonatos do mundo?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>3º Lugar</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>4º Lugar</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vencedora</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2º Lugar</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="13">
+			<textoPergunta>Até ao ano de 2011, qual foi o número de títulos
+				consecutivos conquistados pelo FC Porto em hóquei em patins?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Dez</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Três</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vinte</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Cinco</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="14">
+			<textoPergunta>Até ao ano de 2011, qual foi o piloto português de Fórmula 1
+				 com o melhor resultado num grande prémio?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Pedro Lamy</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Tiago Monteiro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Nicha Cabral</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Pedro Matos Chaves</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="15">
+			<textoPergunta>Até ao ano de 2011, qual foi o piloto português de rali com
+				mais títulos internacionais?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Rui Madeira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Joaquim Santos</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Armindo Araújo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Joaquim Moutinho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="16">
+			<textoPergunta>Até ao ano de 2011, qual foi o tenista Português com melhor
+				ranking ATP de sempre?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>João Cunha e Silva</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Rui Machado</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Nuno Marques</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Frederico Gil</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="17">
+			<textoPergunta>Até ao ano de 2011, quantas medalhas de Ouro venceu
+				Portugal nos Jogos Olímpicos?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Três</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Quatro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Cinco</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Seis</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="18">
+			<textoPergunta>Até ao ano de 2011, qual foi o clube que protagonizou a maior
+				goleada europeia de sempre?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Real Madrid</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sporting CP</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Barcelona</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Manchester United</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="19">
+			<textoPergunta>Até ao ano de 2011, qual foi a equipa com mais campeonatos de
+				hóquei em patins conquistados consecutivamente?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Óquei de Barcelos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>FC Porto</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sporting CP</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>SL Benfica</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="20">
+			<textoPergunta>Até ao ano de 2011, quem foi o atleta Português mais
+				rápido?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Francis Obikwelu</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Carlos Lopes</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Carlos Calado</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Nelson Évora</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="21">
+			<textoPergunta>Com que desporto venceu Portugal a primeira medalha
+				Olímpica em Paris no ano de 1924?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Atletismo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Futebol</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Equitação</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Tiro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="22">
+			<textoPergunta>Como ficaram conhecidos os jogadores do Sporting:
+				Jesus Correia, Vasques, Peyroteo, Travassos e Albano?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Os cinco magníficos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Os cinco violinos</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Os imbatíveis</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Os cinco vão ao estádio</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="23">
+			<textoPergunta>De onde é natural Eusébio da Silva Ferreira?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Luanda</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Lourenço Marques</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="24">
+			<textoPergunta>De onde era suposto partir o Dakar de 2008?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Portimão</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Figueira da Foz</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="25">
+			<textoPergunta>Dos seguintes pilotos portugueses, qual foi o primeiro a
+				participar na Fórmula 1?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Pedro Matos Chaves</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Pedro Lamy</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mário de Araújo Cabral</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>António Félix da Costa</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="26">
+			<textoPergunta>Em 1938/39 qual o clube que foi campeão nacional?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Sporting CP</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>FC Porto</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>SL Benfica</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Académica</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="27">
+			<textoPergunta>Em 1966, qual era a alcunha de José Torres?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Pantera Negra</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>O Pinheiro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>O Bom Gigante</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>O Cepo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="28">
+			<textoPergunta>Em 2006, o SL Benfica entrou no Guinness por ser o
+				clube do mundo com maior número de...?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Infra-estruturas</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sócios</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Simpatizantes</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Modalidades</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="29">
+			<textoPergunta>Qual o nome do jogador português de futebol com mais títulos ganhos em 2011?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Luís Figo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Fernando Couto</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vitor Baía</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Artur Jorge</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="30">
+			<textoPergunta>Em 2011, quem era o melhor marcador da seleção
+				nacional?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Pedro Pauleta</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Hugo Almeida</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Fernando Gomes</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Miguel Fidalgo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="31">
+			<textoPergunta>Em 2011, qual destas equipas não participou no
+				Campeonato Nacional de Futsal?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Belenenses</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>FC Porto</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>SL Benfica</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Sporting CP</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="32">
+			<textoPergunta>No ano 2008 em Pequim quais foram as medalhas Olímpicas ganhas
+				por Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Nenhuma</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ouro e Prata</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ouro e Bronze</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Prata e Bronze</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="33">
+			<textoPergunta>Em qual destes desportos Portugal nunca venceu uma
+				medalha Olímpica?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Esgrima</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Equitação</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ciclismo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Futebol</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="34">
+			<textoPergunta>Em qual destes desportos Portugal nunca venceu uma
+				medalha Olímpica?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Judo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Triatlo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Tiro</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Andebol</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="35">
+			<textoPergunta>Em que ano foi construído o autódromo do Estoril?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>1970</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1972</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1971</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2008</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="36">
+			<textoPergunta>Em que ano foi fundada a claque "Juventude Leonina"?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>1975</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1976</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1977</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1980</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="37">
+			<textoPergunta>Em que ano foi fundado o Sport Lisboa e Benfica?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>1904</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1905</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1906</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1910</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="38">
+			<textoPergunta>Em que ano foi fundado o Sporting Clube de Portugal?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>1906</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1907</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1908</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1999</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="39">
+			<textoPergunta>Em que ano foi inaugurado o "Estádio Alvalade XXI"?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>2000</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>2001</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>2002</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2003</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="40">
+			<textoPergunta>Em que ano foi inaugurado o antigo Estádio da Luz?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>1953</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1954</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1950</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1956</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="41">
+			<textoPergunta>Na década de 90, em que ano foi realizado o último
+				Grande Prémio de F1 de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>1996</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1999</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1998</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1994</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="42">
+			<textoPergunta>Em que ano Portugal chegou pela primeira vez às meias
+				finais do campeonato europeu de futebol?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>1984</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1985</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>2000</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2004</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="43">
+			<textoPergunta>Em que ano Portugal participou pela primeira vez no
+				Campeonato Europeu de basquetebol?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>1951</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>2011</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1990</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2009</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="44">
+			<textoPergunta>Em que ano Rui Madeira ganhou o Rali de Portugal?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>1978</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1996</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>2000</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1994</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="45">
+			<textoPergunta>Em que ano se jogou pela primeira vez futebol em
+				Portugal Continental?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>1987</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1900</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1920</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1888</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="46">
+			<textoPergunta>Em que ano se jogou pela primeira vez futebol em
+				Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>1910</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1900</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1875</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1974</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="47">
+			<textoPergunta>Em que ano se qualificou pela primeira vez Portugal
+				para o campeonato do mundo de rugby?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>1999</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>2003</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>2007</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2011</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="48">
+			<textoPergunta>Em que ano se realizou a primeira "Baja de
+				Portalegre"? (Nome era diferente)</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>1987</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1990</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1980</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2000</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="49">
+			<textoPergunta>Em que ano se realizou a primeira edição do 24H TT de
+				Fronteira?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>2000</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1998</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>2005</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2001</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="50">
+			<textoPergunta>Em que ano venceu Portugal a primeira medalha Olímpica
+				por equipas?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>1924</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1928</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1984</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1992</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="51">
+			<textoPergunta>Em que ano(s) jogou Paulo Futre no Sporting?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>1983-1984</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1986-1987</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1990-1991</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1983</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="52">
+			<textoPergunta>Em que década o SL Benfica contratou o primeiro
+				jogador estrangeiro?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Década de 60</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Década de 80</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Década de 70</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Década de 90</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="53">
+			<textoPergunta>Em que desporto venceu Portugal a primeira medalha
+				Olímpica por equipas?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Atletismo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Esgrima</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Equitação</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Hoquei em Patins</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="54">
+			<textoPergunta>Em que estádio foi disputada a final da taça de
+				Portugal da época 1982/83?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Estádio da Luz</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Estádio Nacional</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Estádio das Antas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Estádio de Alvalade</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="55">
+			<textoPergunta>Em que Jogos Olímpicos Portugal arrecadou mais
+				medalhas depois de Los Angeles?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Atenas</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Barcelona</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sydney</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Pequim</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="56">
+			<textoPergunta>Até ao final da década de 90, em que lugar estava
+				Portugal em termos de títulos de Hóquei em patins?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>2º</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1º</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>3º</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>4º</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="57">
+			<textoPergunta>Em que modalidade compete Telma Monteiro?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Boxe</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Atletismo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Judo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Esgrima</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="58">
+			<textoPergunta>Em que modalidade conquistou Portugal a primeira
+				medalha olímpica?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Atletismo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Hipismo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Tiro</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Natação</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="59">
+			<textoPergunta>Em que modalidade conquistou Sérgio Paulinho a medalha
+				de Prata nos Jogos Olímpicos de Atenas em 2004?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Atletismo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Vela</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ciclismo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Judo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="60">
+			<textoPergunta>Em que modalidade Portugal competiu, num campeonato do
+				mundo, com uma equipa amadora?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Voleibol</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Rugby</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Basquetebol</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Hóquei em Patins</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="61">
+			<textoPergunta>Em que modalidade se tornou conhecida Magali de
+				Lattre?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Judo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Xadrez</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Voleibol</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ténis</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="62">
+			<textoPergunta>Em que século foi criada a Federação Portuguesa de
+				Futebol?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Século XVIII</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Século XIX</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Século XX</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Século XXI</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="63">
+			<textoPergunta>José Mourinho não foi treinador adjunto de uma das
+				seguintes equipas. Qual?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Estrela da Amadora</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ovarense</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sporting CP</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>FC Barcelona</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="64">
+			<textoPergunta>Miguel Maia e João Brenha, para além do voleibol de
+				praia, jogavam voleibol juntos em que clube?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Sporting de Espinho</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Académica</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Esmoriz</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Vitória de Guimarães</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="65">
+			<textoPergunta>O S.C. Conimbricense venceu o primeiro campeonato
+				Português de basquetebol em que época?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>1932/1933</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1939/1940</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1922/1923</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1927/1928</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="66">
+			<textoPergunta>Onde embateu o ciclista Joaquim Agostinho na 5ª Etapa da
+				volta ao Algarve em 1984, num acidente que o acabaria por se tornar
+				mortal?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Árvore</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cão</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Poste de electricidade</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Carro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="67">
+			<textoPergunta>Por que motivo ficou conhecido o Campeonato do Mundo
+				de Futebol de 1986?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Caso Saltilho</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Caso Paula</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Apito Dourado</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Vitória sobre Inglaterra</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="68">
+			<textoPergunta>Qual a equipa Portuguesa que conquistou a taça latina
+				de futebol?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>FC Porto</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>SC Braga</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>SL Benfica</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Sporting CP</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="69">
+			<textoPergunta>Qual a medalha conquistada por Francis Obikwelu nos
+				Jogos Olímpicos de Atenas em 2004?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Ouro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Prata</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Bronze</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Nenhuma</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="70">
+			<textoPergunta>Qual a primeira edição do Dakar que partiu de
+				Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>2007</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1991</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>2006</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2004</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="71">
+			<textoPergunta>Qual foi a primeira equipa Portuguesa de futebol a jogar
+				no estrangeiro?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Clube Internacional de Futebol</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>SL Benfica</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Belenenses</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>FC Porto</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="72">
+			<textoPergunta>Qual foi a única equipa Portuguesa a vencer a extinta Taça
+				das Taças de futebol?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>SL Benfica</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>FC Porto</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sporting CP</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>SC Braga</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="73">
+			<textoPergunta>Qual destes jogadores foi da geração d'Ouro?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Luís Figo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Maniche</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>C. Ronaldo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Eusébio</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="74">
+			<textoPergunta>Qual destes atletas bateu o recorde do mundo da maratona
+				nos Jogos Olímpicos de Roterdão em 1985?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Rosa Mota</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Francis Obikwelu</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Carlos Lopes</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Carlos Sousa</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="75">
+			<textoPergunta>Qual dos seguintes Presidentes ficou ligado ao famoso
+				caso da fruta?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Manuel Damásio</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Vale e Azevedo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Pinto da Costa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Sousa Cintra</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="76">
+			<textoPergunta>Qual é a alcunha da seleção que representou Portugal
+				no Mundial de 1966?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Infantes</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Patrícios</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Salazaristas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Magriços</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="77">
+			<textoPergunta>Qual é a mítica porta do antigo estádio "José de
+				Alvalade"?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Porta Norte</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Porta 10A</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Porta das traseiras</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Porta Central</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="78">
+			<textoPergunta>Qual é o clube campeão nacional da época 2011/2012 de
+				andebol séniores masculino?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Águas santas</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Barcelona</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Madeira Sad</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="79">
+			<textoPergunta>Qual é o clube de futebol dos escalões superiores
+				sediado em Vila do Conde?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Vilacondense</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Rio Ave</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Feirense</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Desportivo das Aves</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="80">
+			<textoPergunta>Quem era o selecionador de Portugal em 1996?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Humberto Coelho</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Luis Figo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Artur Jorge</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>António Oliveira</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="81">
+			<textoPergunta>Qual das seguintes equipas venceu a Taça de Portugal
+				2011/2012 de futebol (seniores femininos)?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>FC Porto</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>CS Madeira</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Castelo Maia GC</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>CD Ribeirense</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="82">
+			<textoPergunta>Qual foi o melhor jogador de Futsal da seleção portuguesa em
+				2011?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>C.Ronaldo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Benedito</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ricardinho</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Cardinal</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="83">
+			<textoPergunta>Qual foi o jogador Português que a par de Eusébio e
+				Cristiano Ronaldo ganhou a bola de ouro até ao ano de 2010?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Luís Figo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Rui Costa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vítor Baia</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>João Vieira Pinto</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="84">
+			<textoPergunta>Qual foi o último piloto nacional a participar na
+				Fórmula 1 até 2012?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Tiago Monteiro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Pedro Lamy</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Lewis Hamilton </textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Pedro Chaves</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="85">
+			<textoPergunta>Qual foi o primeiro ciclista Português a vencer 4 voltas a
+				Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Marco Chagas</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Joaquim Agostinho</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>José Azevedo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Rui Costa</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="86">
+			<textoPergunta>Qual é o clube de futebol Português com mais finais da
+				liga dos campeões até ao ano 2000?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Braga</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sporting</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Benfica</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="87">
+			<textoPergunta>Qual é o clube de futebol Português com mais títulos em
+				2012?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Braga</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sporting</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Benfica</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="88">
+			<textoPergunta>Qual é o clube português com mais medalhas olímpicas
+				conquistadas?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Benfica</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sporting</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Alverca</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="89">
+			<textoPergunta>Quem foi o co-piloto de Armindo Araújo na estreia do Mini
+				John Cooper Works WRC?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Luís Ramalho</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Miguel Ramalho</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Nuno Rodrigues da Silva</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Daniel Elena</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="90">
+			<textoPergunta>Qual o jogador que ganhou a Bota de Ouro mais vezes
+				consecutivas?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Jardel</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Eusébio</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Nuno Gomes</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Fernando Gomes</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="91">
+			<textoPergunta>Qual o melhor lugar conseguido por um Português num
+				grande prémio de Fórmula 1 até 2010?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>3º Lugar</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Vencedor</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>10º Lugar</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2º Lugar</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="92">
+			<textoPergunta>Qual foi o melhor marcador de sempre do campeonato
+				português até à década de 2010?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Eusébio</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Hector Yazalde</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mário Jardel</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Hélder Postiga</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="93">
+			<textoPergunta>Qual o melhor resultado da seleção Portuguesa de futebol
+				 em campeonatos do mundo?</textoPergunta>
+			<respostas> 
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>3º</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>4º</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1º</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2º</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="94">
+			<textoPergunta>Qual o Português com mais vitórias em etapas do rali
+				Dakar?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Carlos Sousa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Pedro Lamy</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Heldér Rodrigues</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Elisabete Jacinto</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="95">
+			<textoPergunta>Quem foi o primeiro bota de ouro do futebol Português?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Héctor Yazalde</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Fernando Gomes</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mário Jardel</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Eusébio</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="96">
+			<textoPergunta>Qual foi o primeiro clube de Eusébio da Silva Ferreira?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>O Depostivo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sport Lourenço Marques e Benfica</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sport Lisboa e Benfica</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Sporting Lourenço Marques</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="97">
+			<textoPergunta>Qual foi o primeiro jogador a abandonar a seleção
+				nacional após o Mundial de Futebol de 2010?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Simão Sabrosa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Petit</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Deco</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Paulo Ferreira</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="98">
+			<textoPergunta>Qual foi o primeiro nome do clube Sport Lisboa e Benfica?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Sport Lisboa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sport Benfica</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sport Lisboa e Benfica</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Sport Lisboa e Belém</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="99">
+			<textoPergunta>Quantas medalhas de Ouro já venceu Portugal nos Jogos
+				Olímpicos?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Quatro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Nenhuma</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Duas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Oito</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="100">
+			<textoPergunta>Quantas medalhas Olímpicas venceu Carlos Lopes?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Zero</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Uma</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Duas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Três</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="101">
+			<textoPergunta>Quantas medalhas Olímpicas venceu Rosa Mota ?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Zero</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Uma</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Duas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Três</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="102">
+			<textoPergunta>Quantas taças de Portugal ganhou o Benfica até ao ano
+				de 2010?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>24</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>20</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>19</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>28</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="103">
+			<textoPergunta>Quantos campeonatos do mundo de hóquei em patins
+				conquistou Portugal até ao ano de 2011?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Um</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Zero</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vinte</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Quinze</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="104">
+			<textoPergunta>Quantos campeonatos nacionais absolutos de TT ganhou
+				Carlos Sousa até ao ano de 2011?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Dois</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Quatro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Dez</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Zero</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="105">
+			<textoPergunta>Quantos portugueses competiram na Fórmula 1 até ao ano
+				de 2011?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Dez</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Quatro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Zero</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Dois</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="106">
+			<textoPergunta>Que troço do rali de Portugal Marku Allen acabou de
+				marcha-atrás?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Fafe</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Arganil</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Peninha</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Lagoa Azul</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="107">
+			<textoPergunta>Quem foi a campeã do judo regional (na categoria -52kg)
+				em 2011/2012?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Telma Monteiro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ana Sofia Figueiredo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Irina Gincu</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Rosa Mota</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="108">
+			<textoPergunta>Quem é considerado o melhor jogador Português de
+				hóquei em patins de todos os tempos?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>"Tó" Neves</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Filipe Gaidão</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vitor Fortunato</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Antório Livramento</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="109">
+			<textoPergunta>Qual destes atletas é mais rápido?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Francis Obikwelu</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Carlos Lopes</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Carlos Calado</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Nelson Évora</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="110">
+			<textoPergunta>Quem foi o melhor marcador da liga portuguesa numa só
+				época (73\74) ?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Maradona</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Yazalde</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Falcão</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Lima</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="111">
+			<textoPergunta>Quem era o seleccionador português no mundial de
+				futebol de 1966?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Bobby Robson</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>José Maria Pedroto</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Bella Gutman</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Otto Glória</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="112">
+			<textoPergunta>Quem foi a primeira mulher a vencer uma medalha
+				Olímpica para Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Rosa Mota</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Fernanda Ribeiro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Maria de Albuquerque</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Vanessa Fernandes</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="113">
+			<textoPergunta>Qual dos seguintes clubes foi campeão nacional de vóleibol (Séniores
+				Masculinos) na época de 2010/2011?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>SL Benfica</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Fonte Bastardo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Castelo da Maia</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>SC Espinho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="114">
+			<textoPergunta>Qual foi o melhor ciclista nacional no ano de 2011?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Artur Agostinho </textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Rui Costa </textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Lance Armstrong</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Rui Lavarinhas</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="115">
+			<textoPergunta>Qual foi o primeiro atleta Português a ganhar a primeira
+				medalha de ouro nos Jogos Olímpicos?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Domingos Castro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Francisco Mamede</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Carlos Lopes</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Rosa Mota</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="116">
+			<textoPergunta>Qual foi o guarda-redes português titular na fase
+				final do Mundial de 2002 ?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Ricardo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Vítor Baía</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Nélson</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Mourinho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="117">
+			<textoPergunta>Quem foi o primeiro atleta Português a ganhar medalha
+				de ouro olímpica na modalidade de 10000m?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Rosa Mota</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Carlos Lopes</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Fernanda Ribeiro</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>António Leitão</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="118">
+			<textoPergunta>Qual dos seguintes clubes foi o primeiro Finalista vencido da Taça de
+				Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Sporting CP</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>FC Porto</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>SL Benfica</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Académica</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="119">
+			<textoPergunta>Quem ganhou a primeira Taça de Portugal?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>SL Benfica</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Elvas</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Académica</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Sporting CP</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="120">
+			<textoPergunta>Quem ganhou o Rali de Portugal de 1986?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Joaquim Santos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sebastien Loeb</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Carlos Sainz</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Joaquim Moutinho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="121">
+			<textoPergunta>Raúl Águas lançou nos seniores do Sporting C.P. um
+				conhecido jogador Português em 1989/90. Qual?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Jorge Cadete</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Luís Figo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Paulo Futre</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Hugo Porfírio</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="122">
+			<textoPergunta>Ticha Penicheiro, líder de sempre de assistências na
+				WNBA , mudou-se para que clube da competição em 2010?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Utah Starzz</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>LA Sparks</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sacramento Monarchs</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>NY Liberty</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+	</perguntas>
+</tema>

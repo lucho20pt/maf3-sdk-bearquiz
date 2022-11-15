@@ -1,0 +1,1752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tema>
+	<titulo>Geography</titulo>
+	<perguntas how_many="97">
+		<pergunta id="1">
+			<textoPergunta>A Gafanha da Nazaré é uma praia situada perto da	cidade de?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Nazaré</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Aveiro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Espinho</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="2">
+			<textoPergunta>A Serra d'Ossa situa-se em que região?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Alentejo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Beira Baixa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="3">
+			<textoPergunta>Alvito é uma cidade do distrito de?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Beja</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Faro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Évora</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Setúbal</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="4">
+			<textoPergunta>Como é que os romanos chamavam ao Rio Mondego?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Mondego</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Munda</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Almondegus</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Mondegus</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="5">
+			<textoPergunta>Em quantas regiões está dividido Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Nove</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Dez</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Onze</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Doze</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="6">
+			<textoPergunta>Em que costa fica a cidade do Funchal na Madeira?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Norte</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sul</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Este</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Oeste</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="7">
+			<textoPergunta>Em que lugar, a nível mundial, se encontra a zona económica exclusiva de espaço marítimo português?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>3º</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>15º</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>10º</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>12º</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="8">
+			<textoPergunta>Em que placa tectónica está situado o arquipélago da	Madeira?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Africana</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Europeia</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Americana</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Asiática</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="9">
+			<textoPergunta>Em que placa tectónica está situado o arquipélago dos Açores?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Africana</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Europeia</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Americana</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Todas estas</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="10">
+			<textoPergunta>Em que serra nasce o Rio Zêzere?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Serra da Estrela</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Serra da Gardunha</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Serra do Caramulo </textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Serra da Boa Viagem</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="11">
+			<textoPergunta>Na região do Algarve, em que serra se situa o ponto mais alto?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Serra de Monchique</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Serra do Caldeirão</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Serra da Estrela</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Serra do Alvão</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="12">
+			<textoPergunta>O Autódromo Internacional do Algarve fica situado em que concelho?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Lagoa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Lagos</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Portimão</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Albufeira</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="13">
+			<textoPergunta>O Cabo Carvoeiro fica perto da cidade de?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Sesimbra</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Peniche</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Aveiro</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Cascais</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="14">
+			<textoPergunta>O Lobo Ibérico é uma sub-espécie de que animal?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Lobo-negro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Lobo-cinzento</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Cão Selvagem</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Logo-branco</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="15">
+			<textoPergunta>Onde desagua o Rio Ave?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Figueira da Foz</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Vila do Conde</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Setúbal</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Faro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="16">
+			<textoPergunta>Onde desagua o Rio Cávado?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Espinho</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Aveiro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Esposende</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="17">
+			<textoPergunta>Onde desagua o rio Lima?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Caminha</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Barcelos</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Viana do Castelo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="18">
+			<textoPergunta>Onde nasce o rio Lima?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Galiza</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ponte da Barca</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ponte de Lima</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="19">
+			<textoPergunta>Onde se localiza o mais famoso Santuário da Nossa Senhora dos Remédios?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Barcelos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Braga</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Guimarães</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Lamego</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="20">
+			<textoPergunta>Onde se situa a montanha mais alta de Portugal? </textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Madeira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Açores</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>A norte do rio Tejo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>A sul do rio Tejo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="21">
+			<textoPergunta>Onde se situa o centro Geodésico de Portugal	continental?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Sarzedas</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cortes</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Serra da Melriça</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Marmeleiro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="22">
+			<textoPergunta>Perto de que Capital de Distrito se encontra o Palácio de Mateus?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Braga </textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Bragança</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vila Real</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Viseu</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="23">
+			<textoPergunta>Portugal tem o/a maior ... da Europa?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Barragem</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Rio</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Montanha</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Lago Artificial</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="24">
+			<textoPergunta>Qual a área de Portugal Continental?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>50343 Km²</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>78298 Km²</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>92090 Km²</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>20201 Km²</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="25">
+			<textoPergunta>Qual a árvore que ocupa maior área em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Sobreiro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Carvalho Português</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Pinheiro bravo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Castanheiro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="26">
+			<textoPergunta>Qual a caracterização do clima continental Português?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Mediterrâneo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Tropical</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Árido</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Glaciar</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="27">
+			<textoPergunta>Qual a esperança média de vida em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>77,7 anos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>75,6 anos</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>79,8 anos</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>72,1 anos</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="28">
+			<textoPergunta>Qual é a extensão da área continental portuguesa?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>2000km</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1853km</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>691km</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>950km</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="29">
+			<textoPergunta>Qual das seguintes opções é a foz do rio Guadiana?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Sagres</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Montegordo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Faro</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Vila Real de Santo António</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="30">
+			<textoPergunta>Qual é a ilha mais pequena dos Açores?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Corvo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Graciosa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Faial</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>São Miguel</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="31">
+			<textoPergunta>Qual é a montanha mais alta de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Pico</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Estrela</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Marão</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Caldeirão</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="32">
+			<textoPergunta>Qual a percentagem de população que vive em zonas urbanas?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>0%</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>3%</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1%</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2%</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="33">
+			<textoPergunta>Qual é a vila que se situa mais a norte de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Melgaço</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Monção</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Caminha</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Vinhais</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="34">
+			<textoPergunta>Qual das seguintes ilhas está mais próxima de Faro?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Berlenga</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Armona</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Culatra</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Tavira</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="35">
+			<textoPergunta>Qual das seguintes cidades fica mais a norte?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Faro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Portalegre</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Castelo Branco</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Coimbra</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="36">
+			<textoPergunta>Qual destas localidades está mais a norte de Portugal? </textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Bragança</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Braga</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Viana do Castelo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Paredes de Coura</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="37">
+			<textoPergunta>Qual destas localidades não é atravessada pelo rio Douro?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Peso da Régua</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Mesão Frio</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Marco de Canavezes</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Castelo de Paiva</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="38">
+			<textoPergunta>Qual destas localidades não é atravessada pelo rio Tâmega?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Chaves</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Vila Real</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Amarante</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Mondim de Basto</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="39">
+			<textoPergunta>Qual destes animais faz parte da fauna portuguesa?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Urso Branco</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Urso Pardo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Urso da montanha</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Urso Castanho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="40">
+			<textoPergunta>Qual destes não é um monumento natural em Portugal? </textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Pedra da Mua</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Pedreira do Avelino</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Furnas de Vilarinho</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ponta da Piedade</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="41">
+			<textoPergunta>Qual das seguintes opções não é um parque natural em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Montesinho</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Alvão</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ria Formosa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ria de Aveiro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="42">
+			<textoPergunta>Qual dos seguintes peixes não se encontra na costa Vincentina?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Dourada</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Linguado</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Robalo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Espadarte</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="43">
+			<textoPergunta>Qual destes rios não é apto para a navegação comercial?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Douro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Tejo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mondego</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Guadiana</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="44">
+			<textoPergunta>Qual destes rios não existe em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Baságueda</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cáster</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Xarrama</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Mulher</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="45">
+			<textoPergunta>Qual destes rios não nasce em Espanha?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Tejo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Mondego</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Guadiana</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="46">
+			<textoPergunta>Qual destes rios não nasce em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Mondego</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cávado</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Guadiana</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Vouga</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="47">
+			<textoPergunta>Qual é a capital de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Braga</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Funchal</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="48">
+			<textoPergunta>Qual é a zona de Portugal menos susceptível a actividade sísmica?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Bragança</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Açores</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Madeira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="49">
+			<textoPergunta>Qual é o maior distrito de Portugal em termos de área? </textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Évora</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Beja</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Santarém</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="50">
+			<textoPergunta>Qual é o maior rio Português?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Rio Douro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Rio Tejo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Rio Minho</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Rio Mondego</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="51">
+			<textoPergunta>Qual é o menor distrito de Portugal em termos de área?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Santarém</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Aveiro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Viana do Castelo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="52">
+			<textoPergunta>Qual é o ponto mais alto da Ilha da Madeira?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Pico Ruivo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Montanha do Pico</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Pico de Cebola</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Pico Loiro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="53">
+			<textoPergunta>Qual é o ponto mais alto de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Torre (Serra da Estrela)</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Pico Ruivo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Montanha do Pico</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Colina de Lisboa</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="54">
+			<textoPergunta>Qual é o clima do Arquipélago dos Açores?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Mediterrânico</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Oceânico</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Africano</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Nórdico</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="55">
+			<textoPergunta>Qual o comprimento da linha de Costa em Portugal	Continental?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>1030Km</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1430Km</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1230Km</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1200Km</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="56">
+			<textoPergunta>Qual o local mais ocidental da Europa continental?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Cabo Carvoeiro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cabo S.Vicente</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Cabo da Roca</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Cabo Mondego</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="57">
+			<textoPergunta>Qual é o maior rio inteiramente português?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Mondego</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sado</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Homem</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Guadiana</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="58">
+			<textoPergunta>Qual é o maior rio itinerante português?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Douro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Tejo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mondego</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="59">
+			<textoPergunta>Qual é o município mais a Este de Portugal Continental?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Bragança</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Freixo de Espada à Cinta</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Portalegre</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Miranda do Douro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="60">
+			<textoPergunta>Qual é o município mais a Este de Portugal Continental?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Bragança</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Beja</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Miranda do Douro</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Évora</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="61">
+			<textoPergunta>Qual o nome do barco que navega no Rio Mondego em Coimbra?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Basófias</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Santa Maria</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mondego</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Coimbra</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="62">
+			<textoPergunta>Qual o nome do barco que navega no Rio Mondego em Coimbra?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Moliceiro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Santa Maria</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Basófias</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Mondego</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="63">
+			<textoPergunta>Qual o nome do impulsionador das descobertas marítimas Portuguesas?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Luís de Camões</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Vasco da Gama</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Infante D. Henrique</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Pedro Álvares Cabral</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="64">
+			<textoPergunta>Qual o nome do impulsionador das descobertas marítimas Portuguesas?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Infante D. Henrique</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Vasco da Gama</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Fernão Magalhães</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Pedro Álvares Cabral</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="65">
+			<textoPergunta>Qual o nome dos barcos que navegam na Ria de Aveiro?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Rabelos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Basófias</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Moliceiros</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Caravelas</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="66">
+			<textoPergunta>Qual o nome dos barcos que navegam no Rio Douro?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Rabelos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Dourados</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Caravelas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Moliceiros</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="67">
+			<textoPergunta>Qual o nome dos barcos que navegam no Rio Douro?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Moliceiros</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Caravelas</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Barcas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Rabelos</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="68">
+			<textoPergunta>Qual é o país mais distante de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Austrália</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Nova Zelândia</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Japão</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Indonésia</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="69">
+			<textoPergunta>Qual o país mais distante de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Papua Nova Guiné</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Espanha</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Austrália</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Nova Zelândia</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="70">
+			<textoPergunta>Qual é o ponto mais alto de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Montanha do Pico nos Açores</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Serra da Estrela na Covilhã</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Pico Ruivo na Madeira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Serra do Caramulo na Beira Alta</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="71">
+			<textoPergunta>Qual é o ponto mais alto do território português?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Montanha do Pico</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Serra da Estrela</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Serra do Marão</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Serra do Gerês</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="72">
+			<textoPergunta>Qual é o ponto mais ocidental de Portugal e da Europa continental?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Sagres</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cabo Carvoeiro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Cabo da Roca</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Cabo Espichel</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="73">
+			<textoPergunta>Qual é o ponto mais ocidental de Portugal e da Europa continental?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Cabo da Roca</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Madeira</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Açores</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Cabo Espichel</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="74">
+			<textoPergunta>Qual é o rio mais extenso da Península Ibérica?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Douro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Tejo</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Guadiana</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="75">
+			<textoPergunta>Qual é o rio que corre de Sul para Norte?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Mondego</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sado</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Douro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="76">
+			<textoPergunta>Qual é o rio que corre de Sul para Norte?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Guadiana</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Douro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mondego</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Sado</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="77">
+			<textoPergunta>Quantas espécies de peixe fazem parte da fauna portuguesa?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Mais de 100</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Menos de 100</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mais de 200</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Mais de 300</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="78">
+			<textoPergunta>Quantas línguas oficiais existem em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>1</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>4</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>3</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="79">
+			<textoPergunta>Quantas línguas oficiais existem em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Uma</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Quatro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Três</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Duas</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="80">
+			<textoPergunta>Quantas paisagens protegidas existem em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Quatro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cinco</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Seis</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Sete</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="81">
+			<textoPergunta>Quantos parques nacionais existem em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Um</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Dois</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Três</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Quatro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="82">
+			<textoPergunta>Quantos parques nacionais existem em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Um</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Dois</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Três</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Quatro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="83">
+			<textoPergunta>Quantos parques nacionais existem em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Quatro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Um</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Dois</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Três</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="84">
+			<textoPergunta>Quantas regiões autónomas são reconhecidas em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Uma</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Três</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Duas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Quatro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="85">
+			<textoPergunta>Quantas reservas naturais há em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Oito</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Nove</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Dez</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Onze</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="86">
+			<textoPergunta>Qual é a altura da Serra da Estrela?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>1993m</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1540m</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1202m</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>980m</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="87">
+			<textoPergunta>Quantos concelhos existem em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>156</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>235</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>345</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>308</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="88">
+			<textoPergunta>Quantos distritos há a norte do Rio Douro?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Quatro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cinco</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Seis</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Sete</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="89">
+			<textoPergunta>Quantos distritos há na região entre Douro e Tejo?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Oito</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sete</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Nove</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Seis</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="90">
+			<textoPergunta>Quantos monumentos naturais há em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Quatro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cinco</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Seis</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Sete</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="91">
+			<textoPergunta>Quantos parques naturais existem em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Onze</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Doze</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Treze</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Catorze</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="92">
+			<textoPergunta>Quantos quilómetros de costa tem Portugal continental?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>646</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>822</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>943</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1213</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="93">
+			<textoPergunta>Quanto mede a área marítima de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>350km2</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>440km2</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>550km2</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>220km2</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="94">
+			<textoPergunta>Qual é o nome do rio que nasce na Serra da Estrela?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Douro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Mondego</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sado</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Vouga</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="95">
+			<textoPergunta>Qual é o rio que passa na cidade de Coimbra?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Mondego</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sado</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vouga</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Tejo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="96">
+			<textoPergunta>Que tipo de clima existe em Portugal continental?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Mediterrânico</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Oceânico</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Subtropical</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Continental</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="97">
+			<textoPergunta>Segundo os Censos 2006 qual é a segunda cidade com maior densidade populacional em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vila Nova de Gaia</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Coimbra</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+	</perguntas>
+</tema>

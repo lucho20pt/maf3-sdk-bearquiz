@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<app>
+	
+	<title>SaberPortugal - [PT]</title>
+	
+	<views>	
+	
+		<intro>
+			<menu>
+				<menuBtn>Start</menuBtn>
+				<menuBtn>Info</menuBtn>
+				<menuBtn>Exit</menuBtn>
+			</menu>
+		</intro>
+		
+		<help>
+			<helpTitle>Info</helpTitle>
+			
+			<helpLine>O jogo consiste em 10 rondas de perguntas cujos temas podem ser: (Desporto, Gastronomia, Artes, História e Geografia).</helpLine>
+			<helpLine>O jogador pode utilizar as teclas numéricas (de 1 a 4), ou as setas (para cima e para baixo) e o botão OK para confirmar.</helpLine>
+			<helpLine>Em cada ronda o tema é o mesmo para todos os jogadores e a vez de jogar vai mudando sequencialmente.</helpLine>
+			<helpLine>A pontuação máxima em cada ronda é 100 mas a mesma vai decrescendo com o passar do tempo.</helpLine>
+			<helpLine>Ao fim das 10 rondas é apresentado o vencedor.</helpLine>
+			<helpLine>Mostre que é o melhor a "Saber Portugal"!</helpLine>
+			<helpLine>Faça também parte da comunidade "Saber Portugal" e envie sugestões de perguntas com as 4 sugestões de respostas para o email info@inw-tech.com.</helpLine>
+			
+			<goBack>Back</goBack>
+		</help>
+		
+		<exit>
+			<exitText>If you leave, you will loose your current progress of the Game. &lt;br/&gt; Do you wish to leave the Game?</exitText>
+			<exitYes>Yes</exitYes>
+			<exitNo>No</exitNo>
+		</exit>
+		
+		<theme>
+			<themeTitle>Next Theme</themeTitle>
+		</theme>
+		
+		<result>
+			<resultTitle>The Winner</resultTitle>
+		</result>
+				
+	</views>
+	
+</app>

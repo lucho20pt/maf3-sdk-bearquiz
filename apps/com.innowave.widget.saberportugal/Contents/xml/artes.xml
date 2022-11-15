@@ -1,0 +1,2295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tema>
+	<titulo>Artes e Espectáculos</titulo>
+	<perguntas how_many="121">
+		<pergunta id="1">
+			<textoPergunta>"Amor de Perdição" é um romance da autoria de?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Camilo Castelo Branco</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Eça de Queiroz</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Fernando Pessoa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Luís Vaz de Camões</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="2">
+			<textoPergunta>"Os Lusíadas" têm quantos Cantos?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>2</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>10</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>12</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Nenhum</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="3">
+			<textoPergunta>"Pasion" é um álbum da autoria de?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Rodrigo Leão</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>José Socrates</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Rui Veloso</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Madredeus</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="4">
+			<textoPergunta>"Quem tem farelos?" é uma peça de teatro escrita por?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Gil Vicente</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Luís de Camões</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ricardo Araújo Pereira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Eça de Queiroz</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="5">
+			<textoPergunta>Após a sua morte, onde foi sepultada Amália Rodrigues?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Panteão Nacional</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ajuda</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>S. João</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Prazeres</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="6">
+			<textoPergunta>As Ruínas de Estói são um importante vestígio de que
+				época?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Romana</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Paleocristã</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Pré-História</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Moderna</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="7">
+			<textoPergunta>Coimbra foi capital da Cultura em que ano?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>2010</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>2000</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1998</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2003</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="8">
+			<textoPergunta>Como é que se chama o primeiro álbum de Aurea?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Busy for me</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>It's Ok</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Aurea</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Aurora</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="9">
+			<textoPergunta>Como se chama a protagonista portuguesa do Fantasma da
+				Ópera?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Sofia Alves</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Sofia Salazar</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Sofia Escobar</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ana Alves</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="10">
+			<textoPergunta>Como se chama o museu dedicado à pintora Paula Rego?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Casa dos Sonhos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Casa dos Desejos </textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vivenda dos Horrores</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Casa das Histórias</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="11">
+			<textoPergunta>Onde ou quem não recebeu cartas Eça de Queirós?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Inglaterra</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Paris</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Fradique Mendes</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Primo Basílio</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="12">
+			<textoPergunta>De quem é a autoria do fado intitulado "Cheira bem,
+				Cheira a Lisboa"?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Vasco Santana</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Amor Electro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Deolinda</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Amália Rodrigues</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="13">
+			<textoPergunta>Em 1992 a Banda Morbid God mudou o seu nome e
+				transformou-se numa das mais famosas bandas portuguesas. Qual é o
+				seu actual nome?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Ramp</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Simbiose</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Moonspell</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Pitch Black</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="14">
+			<textoPergunta>Em Portugal o Naturalismo é introduzido na década de
+				70 do século XIX por?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Marques de Oliveira e Silva Porto</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Rei D. Fernando II</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>José Malhoa e Henrique Pousão</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Columbano</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="15">
+			<textoPergunta>Em qual dos seguintes filmes Pedro Abrunhosa não
+				participou na banda sonora?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Adão e Eva</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>A Carta</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Tentação</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Novo Mundo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="16">
+			<textoPergunta>Em que ano abriu o Mude - Museu do Design e da Moda ?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>1999</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>2012</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>2008</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2009</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="17">
+			<textoPergunta>Em que ano começaram as primeiras escavações
+				arqueológicas que deram origem a Conimbriga?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>1910</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1921</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1940</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1899</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="18">
+			<textoPergunta>Em que ano deram os Xutos e Pontapés o seu primeiro
+				concerto?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>1978</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1979</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1980</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1981</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="19">
+			<textoPergunta>Em que ano foi a Torre de Belém classificada como
+				património mundial?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>1980</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1982</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1983</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1986</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="20">
+			<textoPergunta>Em que ano foi construído o Padrão dos Descobrimentos?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>1950</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1940</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>2001</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1953</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="21">
+			<textoPergunta>Em que ano morreu Amália Rodrigues?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>1999</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1920</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1996</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2001</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="22">
+			<textoPergunta>Em que ano nasceu a fadista Amália Rodrigues?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>1904</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1910</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1915</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1920</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="23">
+			<textoPergunta>Em que ano nasceu Fernando Pessoa?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>1910</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1888</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1973</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1941</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="24">
+			<textoPergunta>Em que ano nasceu Luís Vaz de Camões?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>1525</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1600</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1524</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1950</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="25">
+			<textoPergunta>Em que ano nasceu o famoso escultor português João
+				Cutileiro?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>1945</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1951</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1937</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1980</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="26">
+			<textoPergunta>Em que ano nasceu o poeta Limiano António Feijó?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>1849</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1839</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1859</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1719</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="27">
+			<textoPergunta>Em que cidade nasceu a pintora Paula Rego?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Lamego</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Viseu</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Coimbra</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="28">
+			<textoPergunta>Em que cidade(s) de Portugal podemos encontrar uma
+				ponte construída por Gustave Eiffel?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Lisboa e Almada</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Porto e Gaia</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Coimbra</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Gaia</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="29">
+			<textoPergunta>Em que filme foi dita a célebre frase, "Ó Evaristo,
+				tens cá disto?!"?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Amo-te Teresa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Capitães de Abril</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Zona J </textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>O Pátio das Cantigas</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="30">
+			<textoPergunta>Entre álbuns de estúdio, álbuns ao vivo e compilações,
+				quantos discos já editaram os Xutos e Pontapés?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>25</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>15</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>17</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>18</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="31">
+			<textoPergunta>"Exortação aos Crocodilos" é um romance da autoria de?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>António Lobo Antunes</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>José Saramago</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Pedro Abrunhosa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>David Mourão-Ferreira</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="32">
+			<textoPergunta>Mariza recebeu em 2003 o prémio na categoria de Melhor
+				Artista da Europa de World Music. Quem o atribui?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Eurovisão</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>MTV Europe</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>BBC Radio</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>MTV USA</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="33">
+			<textoPergunta>Na novela "Anjo Selvagem" qual o nome da atriz que
+				dizia "Trinca espinhas o caraças!"?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Soraia Chaves</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Alexandra Lencastre</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Paula Neves</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Rita Pereira</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="34">
+			<textoPergunta>No século XIX quem mandou contruir o Museu do Prado em
+				Madrid?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Princesa Maria de Bragança</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Rei João V</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Carlota Joaquina</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Rei Fernando VII</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="35">
+			<textoPergunta>O filme português "Pátio das Cantigas" data de que
+				ano?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>1800</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1942</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1970</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>2001</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="36">
+			<textoPergunta>"O Primo Basílio" é um romance da autoria de?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>António Lobo Antunes</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Eça de Queiroz</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Rui Veloso</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Alexandre Herculano</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="37">
+			<textoPergunta>O Românico em Portugal foi um movimento artístico que
+				se centrou no desenvolvimento de?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Música e Pintura</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Arquitectura e Arte Plástica</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Música e Arte Plástica</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Música e Arquitectura</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="38">
+			<textoPergunta>"O Vira" é um género musical do folclore Português. De
+				que região?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Beira Alta</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Minho</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Algarve</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Beira Baixa</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="39">
+			<textoPergunta>Onde nasceu o famoso escultor português João
+				Cutileiro?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Coimbra</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Luanda</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="40">
+			<textoPergunta>Onde se encontram as ruínas romanas mais
+				representativas de Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Conimbriga</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Foz Côa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Castro de Silves</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Guimarães</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="41">
+			<textoPergunta>Quais os anos em que Portugueses ganharam o prémio
+				Pritzker?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>1992 e 2011</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1993 e 2010</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>1990 e 2000</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1980 e 1981</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="42">
+			<textoPergunta>Qual o nome da cidade portuguesa que é considerada a cidade
+				do Barroco?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Castelo Branco</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Borba</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Abrantes</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Porto</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="43">
+			<textoPergunta>Qual a continuação da seguinte música: "Dunas, são
+				como divãs. Biombos indiscretos de alcatrão sujo."</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Rasgados por cactos e hortelãs</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Pintados de areia e com cheiro a mar</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Leves como a brisa da manhã</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Calçados com meias de lã</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="44">
+			<textoPergunta>Qual a continuação da seguinte música: "E uma vontade
+				de rir nasce do fundo do ser. E uma vontade de ir, correr o mundo e
+				partir."</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>E o futuro está sempre a tremer</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Fugir, decobrir e viver</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>A vida é sempre a perder</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Como se não houvesse amanhã</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="45">
+			<textoPergunta>Qual a primeira longa metragem do realizador Manuel de
+				Oliveira?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Aniki Bóbó</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Belle Toujours</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Espelho Mágico</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Rua Sésamo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="46">
+			<textoPergunta>Qual a primeira obra conhecida de Eça de Queiroz?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>O Crime do Padre Amaro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>O mistério da estrada de Sintra</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>A Tragédia da Rua das Flores</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>O Primo Basílio</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="47">
+			<textoPergunta>Qual a principal casa de ópera de Lisboa?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Teatro Maria Vitória</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>HardRock Café</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Teatro Nacional São Carlos</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Teatro do Bairro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="48">
+			<textoPergunta>Que cidade portuguesa é considerada Património
+				Mundial?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Angra do Heroísmo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Faro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Braga</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="49">
+			<textoPergunta>Qual destas Farsas foi escrita por Gil Vicente?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Campeonato 2008</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Farsa de Inês Pereira</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Farsa de Inês Mendes</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Farsa de Ana Pereira</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="50">
+			<textoPergunta>Qual destas foi a primeira Série dos Gato Fedorento na
+				RTP1?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Lopes da Silva</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Perfeito Anormal</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Fonseca</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Meireles</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="51">
+			<textoPergunta>Qual destas não é uma Série dos Gato Fedorento?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Lopes da Silva</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Barbosa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Fernando</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Meireles</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="52">
+			<textoPergunta>Qual destas obras não foi escrita por Eça de Queiroz?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>O Crime do Padre Amaro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>O mistério da estrada de Sintra</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>A Mensagem</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>O Primo Basílio</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="53">
+			<textoPergunta>Qual destas obras não foi escrita por Eça de Queiroz?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>A Cidade e as Serras</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Os Maias</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>A Relíquia</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ecos de Angola</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="54">
+			<textoPergunta>Qual destes álbuns não é dos Moonspell?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Sin/Pecado</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>The Butterfly Efect</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Moonspell</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Memorial</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="55">
+			<textoPergunta>Qual destes Autos não foi escrito por Gil Vicente?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Barca do Inferno</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Índia</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Reis Magos</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Barca do Paraíso</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="56">
+			<textoPergunta>Qual destes músicos não foi membro dos Xutos e
+				Pontapés?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Harris</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Francis</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Zé Leonel</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Ricardo Delgado</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="57">
+			<textoPergunta>Qual destes não é heterónimo de Fernando Pessoa?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Álvaro de Campos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Álvaro Reis</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ricardo Reis</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Alberto Caeiro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="58">
+			<textoPergunta>Qual destes não é um heterónimo de Fernando Pessoa?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Álvaro de Campos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ricardo Campos</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ricardo Reis</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Alberto Caeiro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="59">
+			<textoPergunta>Qual destes poetas tem versos seus na música "Than the
+				Serpents in my Arms" dos Moonspell?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Mário Cesariny</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Fernando Pessoa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Luís Vaz de Camões</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Gil Vicente</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="60">
+			<textoPergunta>Qual dos seguintes estilos musicais é exclusivo de
+				Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Rock</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Fado</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Hip-Hop</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Rap</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="61">
+			<textoPergunta>Qual dos seguintes pintores faz parte da Arte
+				Contemporânea portuguesa?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Souza-Cardoso</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Henrique Matos</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>José Malhoa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Antonio Carneiro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="62">
+			<textoPergunta>Qual é a capital da cerâmica em Portugal?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Lisboa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Caldas da Rainha</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Viseu</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Faro</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="63">
+			<textoPergunta>Qual é o estilo arquitectónico do Mosteiro dos
+				Jerónimos?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Manuelino</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Barroco</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Rococó</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Renascentista</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="64">
+			<textoPergunta>Qual é o primeiro álbum de Tony Carreira?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Ai Destino</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>É Verão Portugal</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Coração Perdido</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Canta Canta Portugal</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="65">
+			<textoPergunta>Qual é o segundo álbum de Pedro Abrunhosa?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Viagens</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Silêncio </textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Momento</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Tempo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="66">
+			<textoPergunta>Qual foi a primeira profissão de Amália Rodrigues?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Peixeira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Atriz</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Bordadeira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Engomadeira</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="67">
+			<textoPergunta>Qual o artista Português que participou na Bienal de
+				Veneza, em 2005 e 2007?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Joana Vasconcelos</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Eduardo Viana</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Almada Negreiros</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Rafael Bordalo Pinhero</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="68">
+			<textoPergunta>Qual o estilo da pintora Vieira da Silva?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Cubismo</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Abstracionismo </textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Pop Art</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Colecionismo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="69">
+			<textoPergunta>Qual o nome da figura de cerâmica mais conhecida de
+				Raphael Bordallo-Pinheiro?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>José António</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Zé Manuel</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Zé Povo</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Zé Povinho</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="70">
+			<textoPergunta>Qual o nome de uma das maiores figuras do romantismo
+				Português?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Almada Negreiros</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>José Almeida</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Almeida Garrett</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Luís de Camões</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="71">
+			<textoPergunta>Qual o nome do Arquiteto que em 2012 foi escolhido
+				para curador de Arquitectura Contemporânea do MoMA?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Tomás Taveira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Paulo Gadanho</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Siza Vieira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Manuel Salgado</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="72">
+			<textoPergunta>Qual o nome do Arquiteto que projectou o Estádio de
+				Aveiro para o Euro 2004?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Tomás Taveira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Souto Moura</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Siza Vieira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Manuel Salgado</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="73">
+			<textoPergunta>Qual o nome do Arquiteto que projectou o Estádio
+				Alvalade XXI para o Euro 2004?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Tomás Taveira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Souto Moura</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Siza Vieira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Paulo David</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="74">
+			<textoPergunta>Qual o nome do Arquiteto que projectou o Estádio
+				Alvalade XXI para o Euro 2004?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Tomás Taveira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Souto Moura</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Siza Vieira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Manuel Salgado</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="75">
+			<textoPergunta>Qual o nome do Arquiteto que projectou o Estádio de
+				Braga para o Euro 2004?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Tomás Taveira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Souto Moura</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Siza Vieira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Paulo David</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="76">
+			<textoPergunta>Qual o nome do Arquiteto que projectou o Estádio do
+				Dragão para o Euro 2004?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Tomás Taveira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Souto Moura</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Siza Vieira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Manuel Salgado</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="77">
+			<textoPergunta>Qual o nome do grupo responsável pela introdução do
+				Modernismo nas artes e letras Portuguesas?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Geração à Rasca</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Geração de Orpheu</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Geração Orfã</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Geração de 60</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="78">
+			<textoPergunta>Qual o Português que ganhou o Prémio Nobel da
+				Literatura em 1998?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>José Saramago</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Miguel Sousa Tavares</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Eugénio de Andrade</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Norberto Lopes</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="79">
+			<textoPergunta>Qual o primeiro álbum da Banda Xutos e Pontapés?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Cerco</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>78/82</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Mundo ao Contrário</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Amanhecer</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="80">
+			<textoPergunta>Qual o título da música de Zeca Afonso associada ao
+				ínicio da democracia?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Cantigas de Maio</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Baladas e Canções</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Galinhas do Mato</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Grândola, Vila Morena</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="81">
+			<textoPergunta>Quantos anos de carreira comemorou a banda Xutos e Pontapés?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>30</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>28</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>25</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>1</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="82">
+			<textoPergunta>Quantos heterónimos tinha Fernando Pessoa?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>4</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>1</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>2</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>3</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="83">
+			<textoPergunta>Quantos livros de Fernando Pessoa foram publicados
+				antes da sua morte?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>0</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>5</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>7</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>12</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="84">
+			<textoPergunta>Que ator participou no filme "Velocidade Furiosa 5"?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Ricardo Pereira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>José Sócrates</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Rogério Samora</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Joaquim de Almeida</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="85">
+			<textoPergunta>Que arquiteto Português desenhou o edifício Bonjour
+				Tristesse em Berlim?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Eduardo Souto de Moura</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Álvaro Siza Vieira</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Carrilho da Graça</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Sérgio Infante</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="86">
+			<textoPergunta>Que artista Portuguesa gravou um álbum com o
+				saxofonista Don Byas?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Frederico Valério</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Amália Rodrigues</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Dulce Pontes</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Frei Hermano da Câmara</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="87">
+			<textoPergunta>Que atriz foi protagonista no filme "O crime do Padre
+				Amaro"?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Diana Chaves</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Soraia Chaves</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Ana Malhoa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Joana Duarte</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="88">
+			<textoPergunta>Que eleições foram caricaturadas pelos Gato Fedorento
+				na Série "Esmiuça os Sufrágios" ?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Legislativas de 2009</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Presidenciais de 2010</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Legislativas e Autárquicas 2009</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Legislativas e Autárquicas 2008</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="89">
+			<textoPergunta>Que filme Português teve uma menção especial no
+				Festival de Valência e de Moscovo?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Pátio das Cantigas</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Para Além do amor</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>A Educação de Vera</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Manhã Submersa</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="90">
+			<textoPergunta>Que monumento foi inaugurado a 15 de Abril de 2005 no
+				Porto?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Igreja da Misericórdia</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Casa da Música</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Capela das Almas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Paço Episcopal</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="91">
+			<textoPergunta>Que pintor Português fez a obra "Visitação" que se
+				encontra no Museu Nacional de Arte Antiga?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Eduardo Luiz</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Vicente Gil</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Francisco Henriques</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Gregório Lopes</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="92">
+			<textoPergunta>Que Português criou o Painel da Estação do metro de Champs Elysées – Clémenceau em Paris?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Paula Rego</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Júlio Resende</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Manuel Cargaleiro</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Júlio Pomar</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="93">
+			<textoPergunta>Que vinho, de 2006, foi elaborado em homenagem ao
+				famoso escultor português João Cutileiro?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Escultor</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cutileiro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Pedra</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>JC</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="94">
+			<textoPergunta>Quem compôs a música "Grândola, Vila Morena"?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Rui Veloso</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Jorge Palma</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Zeca Afonso</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Paulo Gonzo</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="95">
+			<textoPergunta>Quem concedeu o primeiro subsídio para iniciar as
+				escavações arqueológicas que deram origem a Conimbriga?
+			</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>D. Duarte</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>D. Dinis</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>D.Amélia</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>D. Fernando</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="96">
+			<textoPergunta>Quem desenvolveu o Pavilhão de Portugal para a Expo
+				98?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Álvaro Siza Vieira</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Tomás Taveira</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Eduardo Souto de Moura</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Pancho Guedes</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="97">
+			<textoPergunta>Quem desfilou no ano 2000 em Paris com o mais caro
+				biquíni em ouro e diamantes?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Filomena Cautela</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Odete Barreiro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Fátima Lopes</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Andreia Lobato</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="98">
+			<textoPergunta>Qual a profissão de Eunice Muñoz?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Pintora</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Cantora</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Atriz</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Produtora</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="99">
+			<textoPergunta>Quem é o autor da tela 'Campina Romana' de 1879, que
+				esteve exposta no Museu do Chiado?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Artur Loureiro</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Armando de Bastos</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>António Vaz</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Eça de Queiroz</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="100">
+			<textoPergunta>Quem era o Srº Presidente no filme "Corrupção"?
+			</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Miguel Guilherme</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Nicolau Breyner</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>António Pedro Cerdeira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Pinto da Costa</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="101">
+			<textoPergunta>Quem escreveu a peça de teatro "Frei Luís de Sousa"?
+			</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Gil Vicente</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>António Ferreira</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Júlio Dantas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta> Almeida Garrett</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="102">
+			<textoPergunta>Quem escreveu "Os Lusíadas"</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Eça de Queiroz</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Luís Vaz de Camões</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Fernando Pessoa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Camilo Castelo Branco</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="103">
+			<textoPergunta>Quem escreveu "Os Maias"?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Miguel Torga</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Eça de Queirós</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>José Saramago</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>António Lobo Antunes</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="104">
+			<textoPergunta>Quem foi Amadeo de Souza-Cardoso? </textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Pintor Modernista </textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Escritor</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Pintor de Arte Urbana</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Pintor Surrealista</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="105">
+			<textoPergunta>Quem foi Antero de Quental? </textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Poeta</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Escritor e Poeta</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Cozinheiro</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Cantor e Ator</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="106">
+			<textoPergunta>Quem foi eleita melhor atriz nos Globos de Ouro,
+				Portugal, de 2008?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Rita Blanco</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Alexandra Lencastre</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Margarida Vila-Nova</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Eunice Muñoz</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="107">
+			<textoPergunta>Quem foi um dos Designers mais influentes e pioneiros
+				em Portugal?</textoPergunta>
+			<respostas>
+				<correcta id="" />
+				<resposta id="1">
+					<textoResposta>Luís de Camões</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Daciano da Costa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Paula Rego</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Daciano Silva</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="108">
+			<textoPergunta>Quem foi o ator principal do famoso filme portugês "A
+				balada da praia dos cães"?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Raul Solnado</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>António Vitorino</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Miguel Guilherme</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Nicolau Breyner</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="109">
+			<textoPergunta>Quem foi o primeiro Nobel Português?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Egas Moniz</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Fernando Pessoa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>José Saramago</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Eça de Queiroz</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="110">
+			<textoPergunta>Quem foi o realizador do famoso filme portugês "A
+				balada da praia dos cães"?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>João Botelho</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Raul Solnado</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Fonseca e Costa</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Pedro Vasconcelos</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="111">
+			<textoPergunta>Quem ganhou o Globo de Ouro para Melhor Intérprete
+				Individual em 2009?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Mariza</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Ana Moura</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Aurea</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Sara Tavares</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="112">
+			<textoPergunta>Quem ganhou o prémio MTV Europe Music Awards, na categoria "Best Portuguese Act" a 18 de outubro de 2011?
+			</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Aurea</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Buraka Som Sistema</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Tony Carreira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>The Gift</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="113">
+			<textoPergunta>Quem pintou o quadro "O Fado"?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Ana Malhoa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>José Malhoa</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Paula Rego</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>João Vaz</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="114">
+			<textoPergunta>Quem foi o realizador da longa metragem "Alice"?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>José Mourinho</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Francisco Ribeiro</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Marco Martins</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Fernando Fragata</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="115">
+			<textoPergunta>Quem recebeu de Barack Obama o prémio Pritzker de
+				arquitectura 2011?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>Filipe Oliveira Dias</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Carrilho da Graça</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Álvaro Siza Vieira</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Eduardo Souto de Moura</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="116">
+			<textoPergunta>Quem transformou a Guitarra Portuguesa num instrumento
+				de concerto?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>António Paredes</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Carlos Paredes</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Gonçalo Paredes </textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>José Muros</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="117">
+			<textoPergunta>Quem venceu o Prémio "Best Portuguese Act" da MTV em
+				2011?</textoPergunta>
+			<respostas>
+				<correcta id="2" />
+				<resposta id="1">
+					<textoResposta>Expensive Soul</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Aurea</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Amor Electro</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>The Gift</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="118">
+			<textoPergunta>Quem venceu o Prémio "Best Portuguese Act" da MTV em
+				2009?</textoPergunta>
+			<respostas>
+				<correcta id="3" />
+				<resposta id="1">
+					<textoResposta>Pedro Abrunhosa</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Expensive Soul</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Xutos e Pontapés</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>David Fonseca</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="119">
+			<textoPergunta>Ricardo Araújo Pereira realizou a adaptação de uma
+				peça de teatro, qual?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>Como Fazer Coisas com Palavras</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>Como Fazer Coisas sem Palavras</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Como não Fazer Coisas</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>Boca do Inferno</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="120">
+			<textoPergunta>Quantos nomes, entre pseudónimos, heterónimos,
+				semi-heterónimos, personagens fictícias e poetas mediúnicos escreveu
+				Fernando Pessoa?</textoPergunta>
+			<respostas>
+				<correcta id="4" />
+				<resposta id="1">
+					<textoResposta>15</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>19</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>10</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>72</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+		<pergunta id="121">
+			<textoPergunta>Qual o tema abordado no X Canto dos Lusíadas?</textoPergunta>
+			<respostas>
+				<correcta id="1" />
+				<resposta id="1">
+					<textoResposta>A Profecia da Sirena</textoResposta>
+				</resposta>
+				<resposta id="2">
+					<textoResposta>O Adamastor</textoResposta>
+				</resposta>
+				<resposta id="3">
+					<textoResposta>Vasco da Gama</textoResposta>
+				</resposta>
+				<resposta id="4">
+					<textoResposta>A Ilha dos Amores</textoResposta>
+				</resposta>
+			</respostas>
+		</pergunta>
+	</perguntas>
+</tema>
