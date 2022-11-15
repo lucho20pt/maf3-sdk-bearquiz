@@ -10,14 +10,14 @@ About this project
 - **Year** 
 	- 2013
 - **Used Technologies** 
-	- Metrological App SDK 
+	- Metrological App SDK 2013
 	- Javascript
 	- XML
 - **Developed Apps** 
 	- Bear Quiz 
 	- Saber Portugal
 - **ShowCase Link** 
-	- url
+	- https://maf3-sdk-bearquiz.netlify.app/
 
 
 Metrological App SDK
